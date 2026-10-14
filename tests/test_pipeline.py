@@ -170,6 +170,8 @@ class FullPipelineTest(unittest.TestCase):
             self.assertEqual(len(hourly), 23)
             quality = json.load(urllib.request.urlopen(base + "/quality"))
             self.assertEqual(len(quality["rejected_rows"]), 3)
+            page = urllib.request.urlopen(base + "/").read().decode()
+            self.assertIn("Grid Data Dashboard", page)
             with self.assertRaises(urllib.error.HTTPError) as ctx:
                 urllib.request.urlopen(base + "/hourly?area=SE3")
             self.assertEqual(ctx.exception.code, 400)

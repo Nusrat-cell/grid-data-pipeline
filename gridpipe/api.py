@@ -6,7 +6,10 @@ import json
 import re
 import sqlite3
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
+from pathlib import Path
 from urllib.parse import parse_qs, urlparse
+
+DASHBOARD = Path(__file__).resolve().parent / "dashboard.html"
 
 AREAS = {"DK1", "DK2"}
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
@@ -80,13 +83,21 @@ def route(conn: sqlite3.Connection, path: str, query: str):
             )
         return runs
 
-    raise ApiError(404, "not found; try /health, /hourly, /daily, /quality or /runs")
+    raise ApiError(404, "not found; try /, /health, /hourly, /daily, /quality or /runs")
 
 
 def make_handler(db_path: str):
     class Handler(BaseHTTPRequestHandler):
         def do_GET(self):  # noqa: N802 - name required by BaseHTTPRequestHandler
             url = urlparse(self.path)
+            if url.path in ("/", "/dashboard"):
+                page = DASHBOARD.read_bytes()
+                self.send_response(200)
+                self.send_header("Content-Type", "text/html; charset=utf-8")
+                self.send_header("Content-Length", str(len(page)))
+                self.end_headers()
+                self.wfile.write(page)
+                return
             conn = sqlite3.connect(f"file:{db_path}?mode=ro", uri=True)
             try:
                 status, body = 200, route(conn, url.path.rstrip("/") or "/", url.query)

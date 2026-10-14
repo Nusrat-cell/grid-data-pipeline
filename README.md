@@ -14,6 +14,8 @@ raw_production --> stg_production --/
                   rejected_rows (with a reason for every row)
 ```
 
+![Dashboard](docs/dashboard.png)
+
 Python 3.11+ standard library only (`sqlite3`, `zoneinfo`, `http.server`,
 `unittest`), so it runs anywhere with no setup.
 
@@ -21,7 +23,7 @@ Python 3.11+ standard library only (`sqlite3`, `zoneinfo`, `http.server`,
 
 ```bash
 python -m gridpipe run          # materialize every asset, run the checks
-python -m gridpipe serve        # API on http://127.0.0.1:8000
+python -m gridpipe serve        # dashboard and API on http://127.0.0.1:8000
 python -m unittest discover -s tests -v
 ```
 
@@ -92,6 +94,15 @@ before subtracting fixed it (`expected_hours` in `pipeline.py`), and the
 test `test_normal_and_dst_days` pins 23, 24 and 25 hour days so it cannot
 come back.
 
+## Dashboard
+
+`http://127.0.0.1:8000/` is a small dashboard for people who use the data,
+built on the same API: pick an area and a day to see the hourly price against
+the wind and solar share, the daily summary (days with missing hours are
+highlighted), and the data quality results with every rejected row and its
+reason. It is plain HTML and JavaScript, with the chart drawn as SVG, so it
+needs no build step.
+
 ## API
 
 | Endpoint | |
@@ -107,7 +118,7 @@ returns 400 with a clear message).
 
 ## Tests and CI
 
-13 tests: DST hour counts, dependency ordering, cycle detection, failure
+13 tests (including the dashboard being served): DST hour counts, dependency ordering, cycle detection, failure
 isolation, blocking checks, every planted fault caught with the right reason,
 mart consistency, run logging, and HTTP tests against a live server. GitHub
 Actions runs them on Python 3.11 to 3.13 on every push and weekly, then
