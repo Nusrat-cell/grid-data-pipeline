@@ -10,9 +10,11 @@ from pathlib import Path
 from unittest import mock
 
 HAS_DAGSTER = importlib.util.find_spec("dagster") is not None
+# CI sets REQUIRE_DAGSTER=1 so a missing install fails the build instead of skipping.
+RUN_TEST = HAS_DAGSTER or os.environ.get("REQUIRE_DAGSTER") == "1"
 
 
-@unittest.skipUnless(HAS_DAGSTER, "dagster not installed")
+@unittest.skipUnless(RUN_TEST, "dagster not installed")
 class DagsterTest(unittest.TestCase):
     def test_materialize_all_assets_and_checks(self):
         from dagster import materialize
