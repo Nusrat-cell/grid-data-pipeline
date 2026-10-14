@@ -33,8 +33,10 @@ jobs:
           REQUIRE_DAGSTER: "1"
         run: |
           python -c "import dagster; print('dagster', dagster.__version__)"
+          set -o pipefail
           python -m unittest tests.test_dagster -v 2>&1 | tee dagster-test.log
-          grep -q "test_materialize_all_assets_and_checks .* ok" dagster-test.log
+          grep -qx "OK" dagster-test.log
+          ! grep -q "skipped" dagster-test.log
 
   docker:
     runs-on: ubuntu-latest

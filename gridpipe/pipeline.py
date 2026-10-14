@@ -1,4 +1,4 @@
-"""The pipeline itself: raw -> staging -> marts, with data quality checks.
+r"""The pipeline itself: raw -> staging -> marts, with data quality checks.
 
     raw_prices ------> stg_prices ------\                 /--> mart_daily
                                          >--> mart_hourly
