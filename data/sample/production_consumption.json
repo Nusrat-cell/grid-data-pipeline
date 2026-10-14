@@ -1,0 +1,3010 @@
+{
+ "records": [
+  {
+   "HourUTC": "2026-03-25T23:00:00",
+   "HourDK": "2026-03-26T00:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1810.25,
+   "OffshoreWindMWh": 263.72,
+   "OnshoreWindMWh": 514.53,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-25T23:00:00",
+   "HourDK": "2026-03-26T00:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1138.97,
+   "OffshoreWindMWh": 246.98,
+   "OnshoreWindMWh": 82.67,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T00:00:00",
+   "HourDK": "2026-03-26T01:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1785.88,
+   "OffshoreWindMWh": 324.78,
+   "OnshoreWindMWh": 457.85,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T00:00:00",
+   "HourDK": "2026-03-26T01:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1175.41,
+   "OffshoreWindMWh": 250.33,
+   "OnshoreWindMWh": 119.91,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T01:00:00",
+   "HourDK": "2026-03-26T02:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1755.71,
+   "OffshoreWindMWh": 306.36,
+   "OnshoreWindMWh": 544.28,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T01:00:00",
+   "HourDK": "2026-03-26T02:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1147.59,
+   "OffshoreWindMWh": 288.42,
+   "OnshoreWindMWh": 119.07,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T02:00:00",
+   "HourDK": "2026-03-26T03:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1746.6,
+   "OffshoreWindMWh": 306.81,
+   "OnshoreWindMWh": 608.78,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T02:00:00",
+   "HourDK": "2026-03-26T03:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1166.71,
+   "OffshoreWindMWh": 265.4,
+   "OnshoreWindMWh": 122.85,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T03:00:00",
+   "HourDK": "2026-03-26T04:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1796.71,
+   "OffshoreWindMWh": 358.85,
+   "OnshoreWindMWh": 624.3,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T03:00:00",
+   "HourDK": "2026-03-26T04:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1203.71,
+   "OffshoreWindMWh": 256.49,
+   "OnshoreWindMWh": 109.05,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T04:00:00",
+   "HourDK": "2026-03-26T05:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1833.86,
+   "OffshoreWindMWh": 403.88,
+   "OnshoreWindMWh": 742.22,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T04:00:00",
+   "HourDK": "2026-03-26T05:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1244.41,
+   "OffshoreWindMWh": 336.34,
+   "OnshoreWindMWh": 135.72,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T05:00:00",
+   "HourDK": "2026-03-26T06:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1990.05,
+   "OffshoreWindMWh": 485.59,
+   "OnshoreWindMWh": 690.21,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T05:00:00",
+   "HourDK": "2026-03-26T06:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1311.36,
+   "OffshoreWindMWh": 439.86,
+   "OnshoreWindMWh": 176.88,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T06:00:00",
+   "HourDK": "2026-03-26T07:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2033.04,
+   "OffshoreWindMWh": 524.03,
+   "OnshoreWindMWh": 813.58,
+   "SolarPowerMWh": 143.95
+  },
+  {
+   "HourUTC": "2026-03-26T06:00:00",
+   "HourDK": "2026-03-26T07:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1334.64,
+   "OffshoreWindMWh": 422.14,
+   "OnshoreWindMWh": 172.29,
+   "SolarPowerMWh": 91.38
+  },
+  {
+   "HourUTC": "2026-03-26T07:00:00",
+   "HourDK": "2026-03-26T08:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2185.21,
+   "OffshoreWindMWh": 637.23,
+   "OnshoreWindMWh": 1139.21,
+   "SolarPowerMWh": 432.26
+  },
+  {
+   "HourUTC": "2026-03-26T07:00:00",
+   "HourDK": "2026-03-26T08:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1402.03,
+   "OffshoreWindMWh": 487.51,
+   "OnshoreWindMWh": 189.16,
+   "SolarPowerMWh": 178.53
+  },
+  {
+   "HourUTC": "2026-03-26T08:00:00",
+   "HourDK": "2026-03-26T09:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2200.93,
+   "OffshoreWindMWh": 543.55,
+   "OnshoreWindMWh": 912.91,
+   "SolarPowerMWh": 506.22
+  },
+  {
+   "HourUTC": "2026-03-26T08:00:00",
+   "HourDK": "2026-03-26T09:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1420.27,
+   "OffshoreWindMWh": 480.25,
+   "OnshoreWindMWh": 186.91,
+   "SolarPowerMWh": 216.8
+  },
+  {
+   "HourUTC": "2026-03-26T09:00:00",
+   "HourDK": "2026-03-26T10:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2288.02,
+   "OffshoreWindMWh": 685.45,
+   "OnshoreWindMWh": 1237.14,
+   "SolarPowerMWh": 472.19
+  },
+  {
+   "HourUTC": "2026-03-26T09:00:00",
+   "HourDK": "2026-03-26T10:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1526.54,
+   "OffshoreWindMWh": 600.39,
+   "OnshoreWindMWh": 256.41,
+   "SolarPowerMWh": 303.37
+  },
+  {
+   "HourUTC": "2026-03-26T10:00:00",
+   "HourDK": "2026-03-26T11:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2245.29,
+   "OffshoreWindMWh": 727.88,
+   "OnshoreWindMWh": 1041.95,
+   "SolarPowerMWh": 541.97
+  },
+  {
+   "HourUTC": "2026-03-26T10:00:00",
+   "HourDK": "2026-03-26T11:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1485.6,
+   "OffshoreWindMWh": 538.59,
+   "OnshoreWindMWh": 197.36,
+   "SolarPowerMWh": 235.84
+  },
+  {
+   "HourUTC": "2026-03-26T11:00:00",
+   "HourDK": "2026-03-26T12:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2220.81,
+   "OffshoreWindMWh": 816.41,
+   "OnshoreWindMWh": 1367.08,
+   "SolarPowerMWh": 610.88
+  },
+  {
+   "HourUTC": "2026-03-26T11:00:00",
+   "HourDK": "2026-03-26T12:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1468.64,
+   "OffshoreWindMWh": 616.13,
+   "OnshoreWindMWh": 243.28,
+   "SolarPowerMWh": 245.31
+  },
+  {
+   "HourUTC": "2026-03-26T12:00:00",
+   "HourDK": "2026-03-26T13:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2239.95,
+   "OffshoreWindMWh": 594.04,
+   "OnshoreWindMWh": 887.56,
+   "SolarPowerMWh": 590.62
+  },
+  {
+   "HourUTC": "2026-03-26T12:00:00",
+   "HourDK": "2026-03-26T13:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1492.71,
+   "OffshoreWindMWh": 466.51,
+   "OnshoreWindMWh": 168.1,
+   "SolarPowerMWh": 393.29
+  },
+  {
+   "HourUTC": "2026-03-26T13:00:00",
+   "HourDK": "2026-03-26T14:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2184.39,
+   "OffshoreWindMWh": 503.05,
+   "OnshoreWindMWh": 989.86,
+   "SolarPowerMWh": 916.82
+  },
+  {
+   "HourUTC": "2026-03-26T13:00:00",
+   "HourDK": "2026-03-26T14:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1451.89,
+   "OffshoreWindMWh": 496.39,
+   "OnshoreWindMWh": 174.51,
+   "SolarPowerMWh": 272.1
+  },
+  {
+   "HourUTC": "2026-03-26T14:00:00",
+   "HourDK": "2026-03-26T15:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2097.09,
+   "OffshoreWindMWh": 694.26,
+   "OnshoreWindMWh": 1071.3,
+   "SolarPowerMWh": 533.41
+  },
+  {
+   "HourUTC": "2026-03-26T14:00:00",
+   "HourDK": "2026-03-26T15:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1393.88,
+   "OffshoreWindMWh": 590.77,
+   "OnshoreWindMWh": 246.53,
+   "SolarPowerMWh": 294.77
+  },
+  {
+   "HourUTC": "2026-03-26T15:00:00",
+   "HourDK": "2026-03-26T16:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1975.88,
+   "OffshoreWindMWh": 594.97,
+   "OnshoreWindMWh": 965.61,
+   "SolarPowerMWh": 446.24
+  },
+  {
+   "HourUTC": "2026-03-26T15:00:00",
+   "HourDK": "2026-03-26T16:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1281.1,
+   "OffshoreWindMWh": 586.35,
+   "OnshoreWindMWh": 261.6,
+   "SolarPowerMWh": 202.58
+  },
+  {
+   "HourUTC": "2026-03-26T16:00:00",
+   "HourDK": "2026-03-26T17:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1937.49,
+   "OffshoreWindMWh": 576.21,
+   "OnshoreWindMWh": 933.64,
+   "SolarPowerMWh": 301.98
+  },
+  {
+   "HourUTC": "2026-03-26T16:00:00",
+   "HourDK": "2026-03-26T17:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1239.16,
+   "OffshoreWindMWh": 547.4,
+   "OnshoreWindMWh": 225.61,
+   "SolarPowerMWh": 144.67
+  },
+  {
+   "HourUTC": "2026-03-26T17:00:00",
+   "HourDK": "2026-03-26T18:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1734.53,
+   "OffshoreWindMWh": 549.97,
+   "OnshoreWindMWh": 1059.79,
+   "SolarPowerMWh": 214.0
+  },
+  {
+   "HourUTC": "2026-03-26T17:00:00",
+   "HourDK": "2026-03-26T18:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1177.53,
+   "OffshoreWindMWh": 447.13,
+   "OnshoreWindMWh": 159.61,
+   "SolarPowerMWh": 87.84
+  },
+  {
+   "HourUTC": "2026-03-26T18:00:00",
+   "HourDK": "2026-03-26T19:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1726.51,
+   "OffshoreWindMWh": 612.35,
+   "OnshoreWindMWh": 1054.95,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T18:00:00",
+   "HourDK": "2026-03-26T19:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1070.5,
+   "OffshoreWindMWh": 489.3,
+   "OnshoreWindMWh": 242.89,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T19:00:00",
+   "HourDK": "2026-03-26T20:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1639.17,
+   "OffshoreWindMWh": 721.0,
+   "OnshoreWindMWh": 1150.55,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T19:00:00",
+   "HourDK": "2026-03-26T20:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1016.07,
+   "OffshoreWindMWh": 525.85,
+   "OnshoreWindMWh": 275.44,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T20:00:00",
+   "HourDK": "2026-03-26T21:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1521.4,
+   "OffshoreWindMWh": 728.46,
+   "OnshoreWindMWh": 1308.27,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T20:00:00",
+   "HourDK": "2026-03-26T21:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 980.67,
+   "OffshoreWindMWh": 580.29,
+   "OnshoreWindMWh": 208.75,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T21:00:00",
+   "HourDK": "2026-03-26T22:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1473.07,
+   "OffshoreWindMWh": 757.38,
+   "OnshoreWindMWh": 1372.16,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T21:00:00",
+   "HourDK": "2026-03-26T22:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 964.58,
+   "OffshoreWindMWh": 706.92,
+   "OnshoreWindMWh": 259.34,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T22:00:00",
+   "HourDK": "2026-03-26T23:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1466.71,
+   "OffshoreWindMWh": 709.02,
+   "OnshoreWindMWh": 1097.05,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T22:00:00",
+   "HourDK": "2026-03-26T23:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 972.97,
+   "OffshoreWindMWh": 653.49,
+   "OnshoreWindMWh": 242.71,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T23:00:00",
+   "HourDK": "2026-03-27T00:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1751.6,
+   "OffshoreWindMWh": 670.48,
+   "OnshoreWindMWh": 1051.18,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-26T23:00:00",
+   "HourDK": "2026-03-27T00:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1189.11,
+   "OffshoreWindMWh": 560.78,
+   "OnshoreWindMWh": 229.19,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T00:00:00",
+   "HourDK": "2026-03-27T01:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1806.11,
+   "OffshoreWindMWh": 627.65,
+   "OnshoreWindMWh": 1097.7,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T00:00:00",
+   "HourDK": "2026-03-27T01:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1168.46,
+   "OffshoreWindMWh": 582.47,
+   "OnshoreWindMWh": 227.47,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T01:00:00",
+   "HourDK": "2026-03-27T02:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1800.41,
+   "OffshoreWindMWh": 737.52,
+   "OnshoreWindMWh": 1311.1,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T01:00:00",
+   "HourDK": "2026-03-27T02:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1143.44,
+   "OffshoreWindMWh": 560.79,
+   "OnshoreWindMWh": 193.28,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T02:00:00",
+   "HourDK": "2026-03-27T03:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1824.56,
+   "OffshoreWindMWh": 774.73,
+   "OnshoreWindMWh": 1089.9,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T02:00:00",
+   "HourDK": "2026-03-27T03:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1196.87,
+   "OffshoreWindMWh": 664.98,
+   "OnshoreWindMWh": 217.48,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T03:00:00",
+   "HourDK": "2026-03-27T04:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1846.73,
+   "OffshoreWindMWh": 703.32,
+   "OnshoreWindMWh": 1005.5,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T03:00:00",
+   "HourDK": "2026-03-27T04:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1171.1,
+   "OffshoreWindMWh": 534.37,
+   "OnshoreWindMWh": 198.2,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T04:00:00",
+   "HourDK": "2026-03-27T05:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1892.12,
+   "OffshoreWindMWh": 634.43,
+   "OnshoreWindMWh": 930.35,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T04:00:00",
+   "HourDK": "2026-03-27T05:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1197.84,
+   "OffshoreWindMWh": 602.67,
+   "OnshoreWindMWh": 240.16,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T05:00:00",
+   "HourDK": "2026-03-27T06:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1938.09,
+   "OffshoreWindMWh": 723.34,
+   "OnshoreWindMWh": 1091.37,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T05:00:00",
+   "HourDK": "2026-03-27T06:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1293.82,
+   "OffshoreWindMWh": 629.02,
+   "OnshoreWindMWh": 256.92,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T06:00:00",
+   "HourDK": "2026-03-27T07:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2101.87,
+   "OffshoreWindMWh": 827.54,
+   "OnshoreWindMWh": 1181.21,
+   "SolarPowerMWh": 137.68
+  },
+  {
+   "HourUTC": "2026-03-27T06:00:00",
+   "HourDK": "2026-03-27T07:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1329.98,
+   "OffshoreWindMWh": 735.67,
+   "OnshoreWindMWh": 281.34,
+   "SolarPowerMWh": 88.38
+  },
+  {
+   "HourUTC": "2026-03-27T07:00:00",
+   "HourDK": "2026-03-27T08:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2122.09,
+   "OffshoreWindMWh": 948.24,
+   "OnshoreWindMWh": 1505.04,
+   "SolarPowerMWh": 324.95
+  },
+  {
+   "HourUTC": "2026-03-27T07:00:00",
+   "HourDK": "2026-03-27T08:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1425.44,
+   "OffshoreWindMWh": 812.9,
+   "OnshoreWindMWh": 273.13,
+   "SolarPowerMWh": 115.37
+  },
+  {
+   "HourUTC": "2026-03-27T08:00:00",
+   "HourDK": "2026-03-27T09:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2191.94,
+   "OffshoreWindMWh": 804.43,
+   "OnshoreWindMWh": 1276.01,
+   "SolarPowerMWh": 423.59
+  },
+  {
+   "HourUTC": "2026-03-27T08:00:00",
+   "HourDK": "2026-03-27T09:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1486.62,
+   "OffshoreWindMWh": 701.69,
+   "OnshoreWindMWh": 294.92,
+   "SolarPowerMWh": 170.44
+  },
+  {
+   "HourUTC": "2026-03-27T09:00:00",
+   "HourDK": "2026-03-27T10:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2251.67,
+   "OffshoreWindMWh": 770.18,
+   "OnshoreWindMWh": 1628.76,
+   "SolarPowerMWh": 652.18
+  },
+  {
+   "HourUTC": "2026-03-27T09:00:00",
+   "HourDK": "2026-03-27T10:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1463.02,
+   "OffshoreWindMWh": 726.25,
+   "OnshoreWindMWh": 337.52,
+   "SolarPowerMWh": 200.92
+  },
+  {
+   "HourUTC": "2026-03-27T10:00:00",
+   "HourDK": "2026-03-27T11:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2299.31,
+   "OffshoreWindMWh": 863.59,
+   "OnshoreWindMWh": 1348.64,
+   "SolarPowerMWh": 722.71
+  },
+  {
+   "HourUTC": "2026-03-27T10:00:00",
+   "HourDK": "2026-03-27T11:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1485.84,
+   "OffshoreWindMWh": 730.38,
+   "OnshoreWindMWh": 292.4,
+   "SolarPowerMWh": 317.42
+  },
+  {
+   "HourUTC": "2026-03-27T11:00:00",
+   "HourDK": "2026-03-27T12:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2224.78,
+   "OffshoreWindMWh": 694.66,
+   "OnshoreWindMWh": 1119.82,
+   "SolarPowerMWh": 869.6
+  },
+  {
+   "HourUTC": "2026-03-27T11:00:00",
+   "HourDK": "2026-03-27T12:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1468.94,
+   "OffshoreWindMWh": 592.55,
+   "OnshoreWindMWh": 218.99,
+   "SolarPowerMWh": 373.68
+  },
+  {
+   "HourUTC": "2026-03-27T12:00:00",
+   "HourDK": "2026-03-27T13:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2215.17,
+   "OffshoreWindMWh": 650.87,
+   "OnshoreWindMWh": 1115.88,
+   "SolarPowerMWh": 746.68
+  },
+  {
+   "HourUTC": "2026-03-27T12:00:00",
+   "HourDK": "2026-03-27T13:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1443.03,
+   "OffshoreWindMWh": 644.15,
+   "OnshoreWindMWh": 273.12,
+   "SolarPowerMWh": 321.11
+  },
+  {
+   "HourUTC": "2026-03-27T13:00:00",
+   "HourDK": "2026-03-27T14:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2153.85,
+   "OffshoreWindMWh": 673.8,
+   "OnshoreWindMWh": 999.82,
+   "SolarPowerMWh": 671.26
+  },
+  {
+   "HourUTC": "2026-03-27T13:00:00",
+   "HourDK": "2026-03-27T14:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1418.76,
+   "OffshoreWindMWh": 589.27,
+   "OnshoreWindMWh": 211.06,
+   "SolarPowerMWh": 295.33
+  },
+  {
+   "HourUTC": "2026-03-27T14:00:00",
+   "HourDK": "2026-03-27T15:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2041.48,
+   "OffshoreWindMWh": 681.9,
+   "OnshoreWindMWh": 1019.39,
+   "SolarPowerMWh": 460.79
+  },
+  {
+   "HourUTC": "2026-03-27T14:00:00",
+   "HourDK": "2026-03-27T15:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1372.01,
+   "OffshoreWindMWh": 594.0,
+   "OnshoreWindMWh": 257.38,
+   "SolarPowerMWh": 282.58
+  },
+  {
+   "HourUTC": "2026-03-27T15:00:00",
+   "HourDK": "2026-03-27T16:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1979.94,
+   "OffshoreWindMWh": 644.79,
+   "OnshoreWindMWh": 1369.5,
+   "SolarPowerMWh": 408.33
+  },
+  {
+   "HourUTC": "2026-03-27T15:00:00",
+   "HourDK": "2026-03-27T16:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1317.36,
+   "OffshoreWindMWh": 585.58,
+   "OnshoreWindMWh": 190.78,
+   "SolarPowerMWh": 248.9
+  },
+  {
+   "HourUTC": "2026-03-27T16:00:00",
+   "HourDK": "2026-03-27T17:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1912.46,
+   "OffshoreWindMWh": 659.28,
+   "OnshoreWindMWh": 938.09,
+   "SolarPowerMWh": 362.69
+  },
+  {
+   "HourUTC": "2026-03-27T16:00:00",
+   "HourDK": "2026-03-27T17:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1252.49,
+   "OffshoreWindMWh": 559.5,
+   "OnshoreWindMWh": 215.22,
+   "SolarPowerMWh": 179.25
+  },
+  {
+   "HourUTC": "2026-03-27T17:00:00",
+   "HourDK": "2026-03-27T18:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1750.03,
+   "OffshoreWindMWh": 517.65,
+   "OnshoreWindMWh": 877.07,
+   "SolarPowerMWh": 169.61
+  },
+  {
+   "HourUTC": "2026-03-27T17:00:00",
+   "HourDK": "2026-03-27T18:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1132.62,
+   "OffshoreWindMWh": 525.44,
+   "OnshoreWindMWh": 199.96,
+   "SolarPowerMWh": 80.89
+  },
+  {
+   "HourUTC": "2026-03-27T18:00:00",
+   "HourDK": "2026-03-27T19:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1677.92,
+   "OffshoreWindMWh": 455.24,
+   "OnshoreWindMWh": 985.99,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T18:00:00",
+   "HourDK": "2026-03-27T19:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1105.47,
+   "OffshoreWindMWh": 391.24,
+   "OnshoreWindMWh": 187.99,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T19:00:00",
+   "HourDK": "2026-03-27T20:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1615.18,
+   "OffshoreWindMWh": 518.46,
+   "OnshoreWindMWh": 1049.23,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T19:00:00",
+   "HourDK": "2026-03-27T20:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1038.7,
+   "OffshoreWindMWh": 457.2,
+   "OnshoreWindMWh": 186.7,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T20:00:00",
+   "HourDK": "2026-03-27T21:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1540.55,
+   "OffshoreWindMWh": 426.04,
+   "OnshoreWindMWh": 717.8,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T20:00:00",
+   "HourDK": "2026-03-27T21:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1000.22,
+   "OffshoreWindMWh": 354.75,
+   "OnshoreWindMWh": 134.69,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T21:00:00",
+   "HourDK": "2026-03-27T22:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1501.77,
+   "OffshoreWindMWh": 406.01,
+   "OnshoreWindMWh": 746.76,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T21:00:00",
+   "HourDK": "2026-03-27T22:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 967.24,
+   "OffshoreWindMWh": 329.75,
+   "OnshoreWindMWh": 164.42,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T22:00:00",
+   "HourDK": "2026-03-27T23:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1429.39,
+   "OffshoreWindMWh": 402.35,
+   "OnshoreWindMWh": 787.93,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T22:00:00",
+   "HourDK": "2026-03-27T23:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 943.29,
+   "OffshoreWindMWh": 377.61,
+   "OnshoreWindMWh": 123.61,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T23:00:00",
+   "HourDK": "2026-03-28T00:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1658.46,
+   "OffshoreWindMWh": 416.14,
+   "OnshoreWindMWh": 879.37,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-27T23:00:00",
+   "HourDK": "2026-03-28T00:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1077.44,
+   "OffshoreWindMWh": 400.75,
+   "OnshoreWindMWh": 139.06,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T00:00:00",
+   "HourDK": "2026-03-28T01:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1566.51,
+   "OffshoreWindMWh": 453.49,
+   "OnshoreWindMWh": 778.4,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T00:00:00",
+   "HourDK": "2026-03-28T01:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1041.38,
+   "OffshoreWindMWh": 413.5,
+   "OnshoreWindMWh": 126.95,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T01:00:00",
+   "HourDK": "2026-03-28T02:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1655.91,
+   "OffshoreWindMWh": 493.12,
+   "OnshoreWindMWh": 937.29,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T01:00:00",
+   "HourDK": "2026-03-28T02:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1044.93,
+   "OffshoreWindMWh": 388.91,
+   "OnshoreWindMWh": 187.73,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T02:00:00",
+   "HourDK": "2026-03-28T03:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1592.82,
+   "OffshoreWindMWh": 468.41,
+   "OnshoreWindMWh": 780.23,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T02:00:00",
+   "HourDK": "2026-03-28T03:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1037.16,
+   "OffshoreWindMWh": 417.64,
+   "OnshoreWindMWh": 177.21,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T03:00:00",
+   "HourDK": "2026-03-28T04:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1651.83,
+   "OffshoreWindMWh": 441.83,
+   "OnshoreWindMWh": 753.71,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T03:00:00",
+   "HourDK": "2026-03-28T04:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1080.84,
+   "OffshoreWindMWh": 353.44,
+   "OnshoreWindMWh": 150.94,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T04:00:00",
+   "HourDK": "2026-03-28T05:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1723.13,
+   "OffshoreWindMWh": 357.46,
+   "OnshoreWindMWh": 558.31,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T04:00:00",
+   "HourDK": "2026-03-28T05:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1105.15,
+   "OffshoreWindMWh": 282.88,
+   "OnshoreWindMWh": 109.04,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T05:00:00",
+   "HourDK": "2026-03-28T06:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1810.63,
+   "OffshoreWindMWh": 376.08,
+   "OnshoreWindMWh": 699.98,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T05:00:00",
+   "HourDK": "2026-03-28T06:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1146.54,
+   "OffshoreWindMWh": 307.93,
+   "OnshoreWindMWh": 119.65,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T06:00:00",
+   "HourDK": "2026-03-28T07:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1929.62,
+   "OffshoreWindMWh": 437.8,
+   "OnshoreWindMWh": 675.35,
+   "SolarPowerMWh": 146.32
+  },
+  {
+   "HourUTC": "2026-03-28T06:00:00",
+   "HourDK": "2026-03-28T07:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1216.85,
+   "OffshoreWindMWh": 303.32,
+   "OnshoreWindMWh": 121.37,
+   "SolarPowerMWh": 64.98
+  },
+  {
+   "HourUTC": "2026-03-28T07:00:00",
+   "HourDK": "2026-03-28T08:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1990.24,
+   "OffshoreWindMWh": 272.65,
+   "OnshoreWindMWh": 470.06,
+   "SolarPowerMWh": 362.78
+  },
+  {
+   "HourUTC": "2026-03-28T07:00:00",
+   "HourDK": "2026-03-28T08:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1269.38,
+   "OffshoreWindMWh": 226.81,
+   "OnshoreWindMWh": 79.69,
+   "SolarPowerMWh": 127.78
+  },
+  {
+   "HourUTC": "2026-03-28T08:00:00",
+   "HourDK": "2026-03-28T09:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2020.49,
+   "OffshoreWindMWh": 279.44,
+   "OnshoreWindMWh": 534.24,
+   "SolarPowerMWh": 427.73
+  },
+  {
+   "HourUTC": "2026-03-28T08:00:00",
+   "HourDK": "2026-03-28T09:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1309.52,
+   "OffshoreWindMWh": 227.07,
+   "OnshoreWindMWh": 106.84,
+   "SolarPowerMWh": 250.5
+  },
+  {
+   "HourUTC": "2026-03-28T09:00:00",
+   "HourDK": "2026-03-28T10:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1999.56,
+   "OffshoreWindMWh": 293.68,
+   "OnshoreWindMWh": 557.61,
+   "SolarPowerMWh": 624.02
+  },
+  {
+   "HourUTC": "2026-03-28T09:00:00",
+   "HourDK": "2026-03-28T10:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1348.74,
+   "OffshoreWindMWh": 211.07,
+   "OnshoreWindMWh": 91.5,
+   "SolarPowerMWh": 322.47
+  },
+  {
+   "HourUTC": "2026-03-28T10:00:00",
+   "HourDK": "2026-03-28T11:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2128.65,
+   "OffshoreWindMWh": 163.5,
+   "OnshoreWindMWh": 260.29,
+   "SolarPowerMWh": 577.77
+  },
+  {
+   "HourUTC": "2026-03-28T10:00:00",
+   "HourDK": "2026-03-28T11:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1385.76,
+   "OffshoreWindMWh": 153.75,
+   "OnshoreWindMWh": 61.77,
+   "SolarPowerMWh": 339.1
+  },
+  {
+   "HourUTC": "2026-03-28T11:00:00",
+   "HourDK": "2026-03-28T12:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2000.47,
+   "OffshoreWindMWh": 104.33,
+   "OnshoreWindMWh": 155.01,
+   "SolarPowerMWh": 947.8
+  },
+  {
+   "HourUTC": "2026-03-28T11:00:00",
+   "HourDK": "2026-03-28T12:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1353.43,
+   "OffshoreWindMWh": 79.44,
+   "OnshoreWindMWh": 28.91,
+   "SolarPowerMWh": 268.35
+  },
+  {
+   "HourUTC": "2026-03-28T12:00:00",
+   "HourDK": "2026-03-28T13:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1973.07,
+   "OffshoreWindMWh": 39.69,
+   "OnshoreWindMWh": 77.16,
+   "SolarPowerMWh": 800.59
+  },
+  {
+   "HourUTC": "2026-03-28T12:00:00",
+   "HourDK": "2026-03-28T13:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1325.43,
+   "OffshoreWindMWh": 33.09,
+   "OnshoreWindMWh": 13.83,
+   "SolarPowerMWh": 305.68
+  },
+  {
+   "HourUTC": "2026-03-28T13:00:00",
+   "HourDK": "2026-03-28T14:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2006.02,
+   "OffshoreWindMWh": 128.59,
+   "OnshoreWindMWh": 204.35,
+   "SolarPowerMWh": 615.9
+  },
+  {
+   "HourUTC": "2026-03-28T13:00:00",
+   "HourDK": "2026-03-28T14:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1314.17,
+   "OffshoreWindMWh": 114.39,
+   "OnshoreWindMWh": 40.86,
+   "SolarPowerMWh": 214.05
+  },
+  {
+   "HourUTC": "2026-03-28T14:00:00",
+   "HourDK": "2026-03-28T15:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1874.66,
+   "OffshoreWindMWh": 123.25,
+   "OnshoreWindMWh": 240.57,
+   "SolarPowerMWh": 787.65
+  },
+  {
+   "HourUTC": "2026-03-28T14:00:00",
+   "HourDK": "2026-03-28T15:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1216.56,
+   "OffshoreWindMWh": 108.29,
+   "OnshoreWindMWh": 47.01,
+   "SolarPowerMWh": 214.51
+  },
+  {
+   "HourUTC": "2026-03-28T15:00:00",
+   "HourDK": "2026-03-28T16:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1794.36,
+   "OffshoreWindMWh": 149.17,
+   "OnshoreWindMWh": 324.47,
+   "SolarPowerMWh": 455.67
+  },
+  {
+   "HourUTC": "2026-03-28T15:00:00",
+   "HourDK": "2026-03-28T16:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1192.36,
+   "OffshoreWindMWh": 126.99,
+   "OnshoreWindMWh": 48.8,
+   "SolarPowerMWh": 239.97
+  },
+  {
+   "HourUTC": "2026-03-28T16:00:00",
+   "HourDK": "2026-03-28T17:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1696.97,
+   "OffshoreWindMWh": 283.78,
+   "OnshoreWindMWh": 479.82,
+   "SolarPowerMWh": 340.87
+  },
+  {
+   "HourUTC": "2026-03-28T16:00:00",
+   "HourDK": "2026-03-28T17:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1083.51,
+   "OffshoreWindMWh": 251.94,
+   "OnshoreWindMWh": 92.92,
+   "SolarPowerMWh": 186.05
+  },
+  {
+   "HourUTC": "2026-03-28T17:00:00",
+   "HourDK": "2026-03-28T18:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1558.71,
+   "OffshoreWindMWh": 310.03,
+   "OnshoreWindMWh": 631.5,
+   "SolarPowerMWh": 224.66
+  },
+  {
+   "HourUTC": "2026-03-28T17:00:00",
+   "HourDK": "2026-03-28T18:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1058.69,
+   "OffshoreWindMWh": 298.41,
+   "OnshoreWindMWh": 124.06,
+   "SolarPowerMWh": 68.03
+  },
+  {
+   "HourUTC": "2026-03-28T18:00:00",
+   "HourDK": "2026-03-28T19:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1533.43,
+   "OffshoreWindMWh": 403.08,
+   "OnshoreWindMWh": 829.92,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T18:00:00",
+   "HourDK": "2026-03-28T19:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 965.94,
+   "OffshoreWindMWh": 338.61,
+   "OnshoreWindMWh": 140.67,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T19:00:00",
+   "HourDK": "2026-03-28T20:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1473.88,
+   "OffshoreWindMWh": 448.99,
+   "OnshoreWindMWh": 794.94,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T19:00:00",
+   "HourDK": "2026-03-28T20:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 953.24,
+   "OffshoreWindMWh": 400.24,
+   "OnshoreWindMWh": 136.91,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T20:00:00",
+   "HourDK": "2026-03-28T21:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1349.4,
+   "OffshoreWindMWh": 561.64,
+   "OnshoreWindMWh": 1151.21,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T20:00:00",
+   "HourDK": "2026-03-28T21:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 910.9,
+   "OffshoreWindMWh": 440.0,
+   "OnshoreWindMWh": 164.1,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T21:00:00",
+   "HourDK": "2026-03-28T22:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1357.34,
+   "OffshoreWindMWh": 675.58,
+   "OnshoreWindMWh": 1020.63,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T21:00:00",
+   "HourDK": "2026-03-28T22:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 896.23,
+   "OffshoreWindMWh": 538.78,
+   "OnshoreWindMWh": 192.75,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T22:00:00",
+   "HourDK": "2026-03-28T23:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1285.36,
+   "OffshoreWindMWh": 703.52,
+   "OnshoreWindMWh": 1331.31,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T22:00:00",
+   "HourDK": "2026-03-28T23:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 850.2,
+   "OffshoreWindMWh": 560.18,
+   "OnshoreWindMWh": 262.08,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T23:00:00",
+   "HourDK": "2026-03-29T00:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1607.81,
+   "OffshoreWindMWh": 629.46,
+   "OnshoreWindMWh": 1265.18,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-28T23:00:00",
+   "HourDK": "2026-03-29T00:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1072.12,
+   "OffshoreWindMWh": 561.66,
+   "OnshoreWindMWh": 238.06,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T00:00:00",
+   "HourDK": "2026-03-29T01:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1597.12,
+   "OffshoreWindMWh": 577.91,
+   "OnshoreWindMWh": 1143.1,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T00:00:00",
+   "HourDK": "2026-03-29T01:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1037.03,
+   "OffshoreWindMWh": 455.69,
+   "OnshoreWindMWh": 168.88,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T01:00:00",
+   "HourDK": "2026-03-29T03:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1651.75,
+   "OffshoreWindMWh": 573.43,
+   "OnshoreWindMWh": 827.19,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T01:00:00",
+   "HourDK": "2026-03-29T03:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1027.5,
+   "OffshoreWindMWh": 437.61,
+   "OnshoreWindMWh": 188.38,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T02:00:00",
+   "HourDK": "2026-03-29T04:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1626250.0,
+   "OffshoreWindMWh": 603.3,
+   "OnshoreWindMWh": 1101.36,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T02:00:00",
+   "HourDK": "2026-03-29T04:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1074.54,
+   "OffshoreWindMWh": 468.95,
+   "OnshoreWindMWh": 201.57,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T03:00:00",
+   "HourDK": "2026-03-29T05:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1671.68,
+   "OffshoreWindMWh": 545.06,
+   "OnshoreWindMWh": 884.12,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T03:00:00",
+   "HourDK": "2026-03-29T05:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1112.2,
+   "OffshoreWindMWh": 470.01,
+   "OnshoreWindMWh": 188.69,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T04:00:00",
+   "HourDK": "2026-03-29T06:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1827.03,
+   "OffshoreWindMWh": 595.33,
+   "OnshoreWindMWh": 1177.74,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T04:00:00",
+   "HourDK": "2026-03-29T06:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1193.8,
+   "OffshoreWindMWh": 532.0,
+   "OnshoreWindMWh": 163.52,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T05:00:00",
+   "HourDK": "2026-03-29T07:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1937.16,
+   "OffshoreWindMWh": 616.06,
+   "OnshoreWindMWh": 1214.78,
+   "SolarPowerMWh": 170.82
+  },
+  {
+   "HourUTC": "2026-03-29T05:00:00",
+   "HourDK": "2026-03-29T07:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1255.49,
+   "OffshoreWindMWh": 506.03,
+   "OnshoreWindMWh": 187.7,
+   "SolarPowerMWh": 87.35
+  },
+  {
+   "HourUTC": "2026-03-29T06:00:00",
+   "HourDK": "2026-03-29T08:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1972.18,
+   "OffshoreWindMWh": 611.02,
+   "OnshoreWindMWh": 934.3,
+   "SolarPowerMWh": 330.99
+  },
+  {
+   "HourUTC": "2026-03-29T06:00:00",
+   "HourDK": "2026-03-29T08:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1260.02,
+   "OffshoreWindMWh": 514.72,
+   "OnshoreWindMWh": 212.58,
+   "SolarPowerMWh": 121.58
+  },
+  {
+   "HourUTC": "2026-03-29T07:00:00",
+   "HourDK": "2026-03-29T09:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2041.69,
+   "OffshoreWindMWh": 604.25,
+   "OnshoreWindMWh": 1057.74,
+   "SolarPowerMWh": 424.07
+  },
+  {
+   "HourUTC": "2026-03-29T07:00:00",
+   "HourDK": "2026-03-29T09:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1340.79,
+   "OffshoreWindMWh": 555.62,
+   "OnshoreWindMWh": 186.32,
+   "SolarPowerMWh": 161.3
+  },
+  {
+   "HourUTC": "2026-03-29T08:00:00",
+   "HourDK": "2026-03-29T10:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2074.48,
+   "OffshoreWindMWh": 633.84,
+   "OnshoreWindMWh": 1071.31,
+   "SolarPowerMWh": 704.46
+  },
+  {
+   "HourUTC": "2026-03-29T08:00:00",
+   "HourDK": "2026-03-29T10:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1326.23,
+   "OffshoreWindMWh": 649.33,
+   "OnshoreWindMWh": 220.71,
+   "SolarPowerMWh": 269.09
+  },
+  {
+   "HourUTC": "2026-03-29T09:00:00",
+   "HourDK": "2026-03-29T11:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2115.24,
+   "OffshoreWindMWh": 729.97,
+   "OnshoreWindMWh": 1091.16,
+   "SolarPowerMWh": 595.39
+  },
+  {
+   "HourUTC": "2026-03-29T09:00:00",
+   "HourDK": "2026-03-29T11:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1368.47,
+   "OffshoreWindMWh": 519.65,
+   "OnshoreWindMWh": 184.01,
+   "SolarPowerMWh": 362.13
+  },
+  {
+   "HourUTC": "2026-03-29T10:00:00",
+   "HourDK": "2026-03-29T12:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2045.73,
+   "OffshoreWindMWh": 770.28,
+   "OnshoreWindMWh": 1220.67,
+   "SolarPowerMWh": 616.99
+  },
+  {
+   "HourUTC": "2026-03-29T10:00:00",
+   "HourDK": "2026-03-29T12:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1353.04,
+   "OffshoreWindMWh": 655.37,
+   "OnshoreWindMWh": 205.76,
+   "SolarPowerMWh": 334.54
+  },
+  {
+   "HourUTC": "2026-03-29T11:00:00",
+   "HourDK": "2026-03-29T13:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1977.16,
+   "OffshoreWindMWh": 628.0,
+   "OnshoreWindMWh": 1158.97,
+   "SolarPowerMWh": 950.24
+  },
+  {
+   "HourUTC": "2026-03-29T11:00:00",
+   "HourDK": "2026-03-29T13:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1286.52,
+   "OffshoreWindMWh": 557.09,
+   "OnshoreWindMWh": 247.75,
+   "SolarPowerMWh": 396.13
+  },
+  {
+   "HourUTC": "2026-03-29T12:00:00",
+   "HourDK": "2026-03-29T14:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2013.0,
+   "OffshoreWindMWh": 762.93,
+   "OnshoreWindMWh": 1195.76,
+   "SolarPowerMWh": 536.22
+  },
+  {
+   "HourUTC": "2026-03-29T12:00:00",
+   "HourDK": "2026-03-29T14:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1309.84,
+   "OffshoreWindMWh": 599.47,
+   "OnshoreWindMWh": 260.73,
+   "SolarPowerMWh": 237.35
+  },
+  {
+   "HourUTC": "2026-03-29T13:00:00",
+   "HourDK": "2026-03-29T15:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1872.9,
+   "OffshoreWindMWh": 753.58,
+   "OnshoreWindMWh": 1361.78,
+   "SolarPowerMWh": 518.9
+  },
+  {
+   "HourUTC": "2026-03-29T13:00:00",
+   "HourDK": "2026-03-29T15:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1207.72,
+   "OffshoreWindMWh": 578.88,
+   "OnshoreWindMWh": 238.73,
+   "SolarPowerMWh": 241.99
+  },
+  {
+   "HourUTC": "2026-03-29T14:00:00",
+   "HourDK": "2026-03-29T16:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1818.04,
+   "OffshoreWindMWh": 796.68,
+   "OnshoreWindMWh": 1069.66,
+   "SolarPowerMWh": 528.79
+  },
+  {
+   "HourUTC": "2026-03-29T14:00:00",
+   "HourDK": "2026-03-29T16:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1193.63,
+   "OffshoreWindMWh": 566.8,
+   "OnshoreWindMWh": 256.9,
+   "SolarPowerMWh": 214.86
+  },
+  {
+   "HourUTC": "2026-03-29T15:00:00",
+   "HourDK": "2026-03-29T17:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1689.26,
+   "OffshoreWindMWh": 708.15,
+   "OnshoreWindMWh": 1180.69,
+   "SolarPowerMWh": 390.32
+  },
+  {
+   "HourUTC": "2026-03-29T15:00:00",
+   "HourDK": "2026-03-29T17:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1103.47,
+   "OffshoreWindMWh": 580.34,
+   "OnshoreWindMWh": 196.1,
+   "SolarPowerMWh": 156.33
+  },
+  {
+   "HourUTC": "2026-03-29T16:00:00",
+   "HourDK": "2026-03-29T18:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1626.28,
+   "OffshoreWindMWh": 741.8,
+   "OnshoreWindMWh": 1199.71,
+   "SolarPowerMWh": 150.53
+  },
+  {
+   "HourUTC": "2026-03-29T16:00:00",
+   "HourDK": "2026-03-29T18:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1020.83,
+   "OffshoreWindMWh": 581.8,
+   "OnshoreWindMWh": 202.64,
+   "SolarPowerMWh": 72.88
+  },
+  {
+   "HourUTC": "2026-03-29T17:00:00",
+   "HourDK": "2026-03-29T19:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1523.47,
+   "OffshoreWindMWh": 617.47,
+   "OnshoreWindMWh": 1284.6,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T17:00:00",
+   "HourDK": "2026-03-29T19:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 986.18,
+   "OffshoreWindMWh": 518.9,
+   "OnshoreWindMWh": 231.09,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T18:00:00",
+   "HourDK": "2026-03-29T20:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1464.65,
+   "OffshoreWindMWh": 744.49,
+   "OnshoreWindMWh": 1264.96,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T18:00:00",
+   "HourDK": "2026-03-29T20:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 934.72,
+   "OffshoreWindMWh": 624.98,
+   "OnshoreWindMWh": 260.73,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T19:00:00",
+   "HourDK": "2026-03-29T21:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1338.88,
+   "OffshoreWindMWh": 681.11,
+   "OnshoreWindMWh": 1339.33,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T19:00:00",
+   "HourDK": "2026-03-29T21:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 917.89,
+   "OffshoreWindMWh": 566.27,
+   "OnshoreWindMWh": 265.44,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T20:00:00",
+   "HourDK": "2026-03-29T22:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1314.09,
+   "OffshoreWindMWh": 665.51,
+   "OnshoreWindMWh": 1227.52,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T20:00:00",
+   "HourDK": "2026-03-29T22:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 854.55,
+   "OffshoreWindMWh": 652.09,
+   "OnshoreWindMWh": 253.28,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T21:00:00",
+   "HourDK": "2026-03-29T23:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1294.2,
+   "OffshoreWindMWh": 760.3,
+   "OnshoreWindMWh": 1380.01,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T21:00:00",
+   "HourDK": "2026-03-29T23:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 883.33,
+   "OffshoreWindMWh": 646.8,
+   "OnshoreWindMWh": 263.25,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T22:00:00",
+   "HourDK": "2026-03-30T00:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1807.97,
+   "OffshoreWindMWh": 852.77,
+   "OnshoreWindMWh": 1682.63,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T22:00:00",
+   "HourDK": "2026-03-30T00:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1160.19,
+   "OffshoreWindMWh": 782.39,
+   "OnshoreWindMWh": 290.04,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T23:00:00",
+   "HourDK": "2026-03-30T01:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1828.43,
+   "OffshoreWindMWh": 824.75,
+   "OnshoreWindMWh": 1596.06,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-29T23:00:00",
+   "HourDK": "2026-03-30T01:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1176.03,
+   "OffshoreWindMWh": 765.14,
+   "OnshoreWindMWh": 276.25,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T00:00:00",
+   "HourDK": "2026-03-30T02:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1806.49,
+   "OffshoreWindMWh": 864.29,
+   "OnshoreWindMWh": 1536.85,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T00:00:00",
+   "HourDK": "2026-03-30T02:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1180.75,
+   "OffshoreWindMWh": 663.68,
+   "OnshoreWindMWh": 245.27,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T01:00:00",
+   "HourDK": "2026-03-30T03:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1764.32,
+   "OffshoreWindMWh": 893.8,
+   "OnshoreWindMWh": 1578.11,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T01:00:00",
+   "HourDK": "2026-03-30T03:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1178.7,
+   "OffshoreWindMWh": 738.36,
+   "OnshoreWindMWh": 259.15,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T02:00:00",
+   "HourDK": "2026-03-30T04:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1750.49,
+   "OffshoreWindMWh": 904.45,
+   "OnshoreWindMWh": 1730.49,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T02:00:00",
+   "HourDK": "2026-03-30T04:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1135.71,
+   "OffshoreWindMWh": 766.42,
+   "OnshoreWindMWh": 304.04,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T03:00:00",
+   "HourDK": "2026-03-30T05:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1935.47,
+   "OffshoreWindMWh": 880.35,
+   "OnshoreWindMWh": 1329.72,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T03:00:00",
+   "HourDK": "2026-03-30T05:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1196.35,
+   "OffshoreWindMWh": 713.13,
+   "OnshoreWindMWh": 274.33,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T04:00:00",
+   "HourDK": "2026-03-30T06:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1934.83,
+   "OffshoreWindMWh": 885.1,
+   "OnshoreWindMWh": 1763.45,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T04:00:00",
+   "HourDK": "2026-03-30T06:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1300.42,
+   "OffshoreWindMWh": 763.85,
+   "OnshoreWindMWh": 329.54,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T05:00:00",
+   "HourDK": "2026-03-30T07:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2036.3,
+   "OffshoreWindMWh": 930.36,
+   "OnshoreWindMWh": 1642.1,
+   "SolarPowerMWh": 206.95
+  },
+  {
+   "HourUTC": "2026-03-30T05:00:00",
+   "HourDK": "2026-03-30T07:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1324.57,
+   "OffshoreWindMWh": 780.0,
+   "OnshoreWindMWh": 315.43,
+   "SolarPowerMWh": 73.89
+  },
+  {
+   "HourUTC": "2026-03-30T06:00:00",
+   "HourDK": "2026-03-30T08:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2142.92,
+   "OffshoreWindMWh": 719.74,
+   "OnshoreWindMWh": 1245.62,
+   "SolarPowerMWh": 263.54
+  },
+  {
+   "HourUTC": "2026-03-30T06:00:00",
+   "HourDK": "2026-03-30T08:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1437.55,
+   "OffshoreWindMWh": 718.8,
+   "OnshoreWindMWh": 287.46,
+   "SolarPowerMWh": 126.81
+  },
+  {
+   "HourUTC": "2026-03-30T07:00:00",
+   "HourDK": "2026-03-30T09:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2283.38,
+   "OffshoreWindMWh": 730.67,
+   "OnshoreWindMWh": 1162.45,
+   "SolarPowerMWh": 552.04
+  },
+  {
+   "HourUTC": "2026-03-30T07:00:00",
+   "HourDK": "2026-03-30T09:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1504.68,
+   "OffshoreWindMWh": 576.4,
+   "OnshoreWindMWh": 279.5,
+   "SolarPowerMWh": 151.02
+  },
+  {
+   "HourUTC": "2026-03-30T08:00:00",
+   "HourDK": "2026-03-30T10:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2319.34,
+   "OffshoreWindMWh": 848.18,
+   "OnshoreWindMWh": 1462.81,
+   "SolarPowerMWh": 571.01
+  },
+  {
+   "HourUTC": "2026-03-30T08:00:00",
+   "HourDK": "2026-03-30T10:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1467.47,
+   "OffshoreWindMWh": 712.31,
+   "OnshoreWindMWh": 273.77,
+   "SolarPowerMWh": 287.81
+  },
+  {
+   "HourUTC": "2026-03-30T09:00:00",
+   "HourDK": "2026-03-30T11:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2295.79,
+   "OffshoreWindMWh": 736.93,
+   "OnshoreWindMWh": 1278.04,
+   "SolarPowerMWh": 867.05
+  },
+  {
+   "HourUTC": "2026-03-30T09:00:00",
+   "HourDK": "2026-03-30T11:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1494.35,
+   "OffshoreWindMWh": 608.73,
+   "OnshoreWindMWh": 238.07,
+   "SolarPowerMWh": 262.17
+  },
+  {
+   "HourUTC": "2026-03-30T10:00:00",
+   "HourDK": "2026-03-30T12:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2227.99,
+   "OffshoreWindMWh": 838.67,
+   "OnshoreWindMWh": 1171.9,
+   "SolarPowerMWh": 557.74
+  },
+  {
+   "HourUTC": "2026-03-30T10:00:00",
+   "HourDK": "2026-03-30T12:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1476.92,
+   "OffshoreWindMWh": 598.53,
+   "OnshoreWindMWh": 217.21,
+   "SolarPowerMWh": 230.8
+  },
+  {
+   "HourUTC": "2026-03-30T11:00:00",
+   "HourDK": "2026-03-30T13:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2271.07,
+   "OffshoreWindMWh": 776.63,
+   "OnshoreWindMWh": 1089.27,
+   "SolarPowerMWh": 803.9
+  },
+  {
+   "HourUTC": "2026-03-30T11:00:00",
+   "HourDK": "2026-03-30T13:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1451.83,
+   "OffshoreWindMWh": 668.35,
+   "OnshoreWindMWh": 278.35,
+   "SolarPowerMWh": 382.62
+  },
+  {
+   "HourUTC": "2026-03-30T12:00:00",
+   "HourDK": "2026-03-30T14:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2232.92,
+   "OffshoreWindMWh": 865.31,
+   "OnshoreWindMWh": 1182.76,
+   "SolarPowerMWh": 598.9
+  },
+  {
+   "HourUTC": "2026-03-30T12:00:00",
+   "HourDK": "2026-03-30T14:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1450.56,
+   "OffshoreWindMWh": 712.6,
+   "OnshoreWindMWh": 279.65,
+   "SolarPowerMWh": 349.24
+  },
+  {
+   "HourUTC": "2026-03-30T13:00:00",
+   "HourDK": "2026-03-30T15:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2042.75,
+   "OffshoreWindMWh": 685.98,
+   "OnshoreWindMWh": 1432.75,
+   "SolarPowerMWh": 526.87
+  },
+  {
+   "HourUTC": "2026-03-30T13:00:00",
+   "HourDK": "2026-03-30T15:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1350.19,
+   "OffshoreWindMWh": 626.61,
+   "OnshoreWindMWh": 212.21,
+   "SolarPowerMWh": 223.2
+  },
+  {
+   "HourUTC": "2026-03-30T14:00:00",
+   "HourDK": "2026-03-30T16:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1977.37,
+   "OffshoreWindMWh": 814.9,
+   "OnshoreWindMWh": 1722.1,
+   "SolarPowerMWh": 511.69
+  },
+  {
+   "HourUTC": "2026-03-30T14:00:00",
+   "HourDK": "2026-03-30T16:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1263.3,
+   "OffshoreWindMWh": 704.23,
+   "OnshoreWindMWh": 281.28,
+   "SolarPowerMWh": 241.47
+  },
+  {
+   "HourUTC": "2026-03-30T15:00:00",
+   "HourDK": "2026-03-30T17:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1890.29,
+   "OffshoreWindMWh": 743.88,
+   "OnshoreWindMWh": 1561.18,
+   "SolarPowerMWh": 274.18
+  },
+  {
+   "HourUTC": "2026-03-30T15:00:00",
+   "HourDK": "2026-03-30T17:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1253.6,
+   "OffshoreWindMWh": 622.54,
+   "OnshoreWindMWh": 221.78,
+   "SolarPowerMWh": 121.46
+  },
+  {
+   "HourUTC": "2026-03-30T16:00:00",
+   "HourDK": "2026-03-30T18:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1725.95,
+   "OffshoreWindMWh": 623.53,
+   "OnshoreWindMWh": 1086.13,
+   "SolarPowerMWh": 215.52
+  },
+  {
+   "HourUTC": "2026-03-30T16:00:00",
+   "HourDK": "2026-03-30T18:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1149.48,
+   "OffshoreWindMWh": 567.67,
+   "OnshoreWindMWh": 193.93,
+   "SolarPowerMWh": 94.5
+  },
+  {
+   "HourUTC": "2026-03-30T17:00:00",
+   "HourDK": "2026-03-30T19:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1699.1,
+   "OffshoreWindMWh": 615.59,
+   "OnshoreWindMWh": 925.91,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T17:00:00",
+   "HourDK": "2026-03-30T19:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1067.46,
+   "OffshoreWindMWh": 554.42,
+   "OnshoreWindMWh": 223.31,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T18:00:00",
+   "HourDK": "2026-03-30T20:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1583.82,
+   "OffshoreWindMWh": 560.91,
+   "OnshoreWindMWh": 1139.44,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T18:00:00",
+   "HourDK": "2026-03-30T20:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1020.76,
+   "OffshoreWindMWh": 460.42,
+   "OnshoreWindMWh": 222.3,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T19:00:00",
+   "HourDK": "2026-03-30T21:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1503.05,
+   "OffshoreWindMWh": 477.62,
+   "OnshoreWindMWh": 849.42,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T19:00:00",
+   "HourDK": "2026-03-30T21:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1011.29,
+   "OffshoreWindMWh": 420.93,
+   "OnshoreWindMWh": 154.61,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T20:00:00",
+   "HourDK": "2026-03-30T22:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1500.56,
+   "OffshoreWindMWh": 610.89,
+   "OnshoreWindMWh": 892.91,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T20:00:00",
+   "HourDK": "2026-03-30T22:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 947.45,
+   "OffshoreWindMWh": 486.39,
+   "OnshoreWindMWh": 223.26,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T21:00:00",
+   "HourDK": "2026-03-30T23:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1489.94,
+   "OffshoreWindMWh": 644.1,
+   "OnshoreWindMWh": 916.16,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T21:00:00",
+   "HourDK": "2026-03-30T23:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 945.46,
+   "OffshoreWindMWh": 486.82,
+   "OnshoreWindMWh": 204.46,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T22:00:00",
+   "HourDK": "2026-03-31T00:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1845.14,
+   "OffshoreWindMWh": 665.7,
+   "OnshoreWindMWh": 949.32,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T22:00:00",
+   "HourDK": "2026-03-31T00:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1203.97,
+   "OffshoreWindMWh": 571.16,
+   "OnshoreWindMWh": 232.46,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T23:00:00",
+   "HourDK": "2026-03-31T01:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1751.68,
+   "OffshoreWindMWh": 619.32,
+   "OnshoreWindMWh": 1109.67,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-30T23:00:00",
+   "HourDK": "2026-03-31T01:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1162.91,
+   "OffshoreWindMWh": 596.86,
+   "OnshoreWindMWh": 239.96,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T00:00:00",
+   "HourDK": "2026-03-31T02:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1755.44,
+   "OffshoreWindMWh": 625.99,
+   "OnshoreWindMWh": 1031.01,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T00:00:00",
+   "HourDK": "2026-03-31T02:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1175.19,
+   "OffshoreWindMWh": 546.41,
+   "OnshoreWindMWh": 201.68,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T01:00:00",
+   "HourDK": "2026-03-31T03:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1823.5,
+   "OffshoreWindMWh": 616.15,
+   "OnshoreWindMWh": 1156.53,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T01:00:00",
+   "HourDK": "2026-03-31T03:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1179.94,
+   "OffshoreWindMWh": 494.05,
+   "OnshoreWindMWh": 186.8,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T02:00:00",
+   "HourDK": "2026-03-31T04:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1824.4,
+   "OffshoreWindMWh": 656.58,
+   "OnshoreWindMWh": 1143.03,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T02:00:00",
+   "HourDK": "2026-03-31T04:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1178.53,
+   "OffshoreWindMWh": 519.75,
+   "OnshoreWindMWh": 225.68,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T03:00:00",
+   "HourDK": "2026-03-31T05:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1917.48,
+   "OffshoreWindMWh": 647.04,
+   "OnshoreWindMWh": 1152.63,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T03:00:00",
+   "HourDK": "2026-03-31T05:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1195.92,
+   "OffshoreWindMWh": 566.79,
+   "OnshoreWindMWh": 198.0,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T04:00:00",
+   "HourDK": "2026-03-31T06:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1945.45,
+   "OffshoreWindMWh": 646.88,
+   "OnshoreWindMWh": 1125.58,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T04:00:00",
+   "HourDK": "2026-03-31T06:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1325.54,
+   "OffshoreWindMWh": 541.03,
+   "OnshoreWindMWh": 208.91,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T05:00:00",
+   "HourDK": "2026-03-31T07:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2079.5,
+   "OffshoreWindMWh": 697.98,
+   "OnshoreWindMWh": 996.62,
+   "SolarPowerMWh": 235.29
+  },
+  {
+   "HourUTC": "2026-03-31T05:00:00",
+   "HourDK": "2026-03-31T07:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1353.16,
+   "OffshoreWindMWh": 503.04,
+   "OnshoreWindMWh": 205.78,
+   "SolarPowerMWh": 71.06
+  },
+  {
+   "HourUTC": "2026-03-31T06:00:00",
+   "HourDK": "2026-03-31T08:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2168.36,
+   "OffshoreWindMWh": 694.12,
+   "OnshoreWindMWh": 1098.68,
+   "SolarPowerMWh": 309.82
+  },
+  {
+   "HourUTC": "2026-03-31T06:00:00",
+   "HourDK": "2026-03-31T08:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1458.43,
+   "OffshoreWindMWh": 565.93,
+   "OnshoreWindMWh": 203.04,
+   "SolarPowerMWh": 171.61
+  },
+  {
+   "HourUTC": "2026-03-31T07:00:00",
+   "HourDK": "2026-03-31T09:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2194.61,
+   "OffshoreWindMWh": 670.66,
+   "OnshoreWindMWh": 1222.01,
+   "SolarPowerMWh": 549.79
+  },
+  {
+   "HourUTC": "2026-03-31T07:00:00",
+   "HourDK": "2026-03-31T09:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1461.12,
+   "OffshoreWindMWh": 541.99,
+   "OnshoreWindMWh": 193.49,
+   "SolarPowerMWh": 264.25
+  },
+  {
+   "HourUTC": "2026-03-31T08:00:00",
+   "HourDK": "2026-03-31T10:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2329.61,
+   "OffshoreWindMWh": 751.02,
+   "OnshoreWindMWh": 1209.73,
+   "SolarPowerMWh": 559.23
+  },
+  {
+   "HourUTC": "2026-03-31T08:00:00",
+   "HourDK": "2026-03-31T10:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1520.65,
+   "OffshoreWindMWh": 574.59,
+   "OnshoreWindMWh": 267.35,
+   "SolarPowerMWh": 224.79
+  },
+  {
+   "HourUTC": "2026-03-31T09:00:00",
+   "HourDK": "2026-03-31T11:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2289.8,
+   "OffshoreWindMWh": 621.61,
+   "OnshoreWindMWh": 960.66,
+   "SolarPowerMWh": 811.21
+  },
+  {
+   "HourUTC": "2026-03-31T09:00:00",
+   "HourDK": "2026-03-31T11:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1480.31,
+   "OffshoreWindMWh": 533.4,
+   "OnshoreWindMWh": 210.71,
+   "SolarPowerMWh": 291.09
+  },
+  {
+   "HourUTC": "2026-03-31T10:00:00",
+   "HourDK": "2026-03-31T12:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2307.74,
+   "OffshoreWindMWh": 684.66,
+   "OnshoreWindMWh": 1417.75,
+   "SolarPowerMWh": 919.2
+  },
+  {
+   "HourUTC": "2026-03-31T10:00:00",
+   "HourDK": "2026-03-31T12:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1527.1,
+   "OffshoreWindMWh": 635.32,
+   "OnshoreWindMWh": 209.05,
+   "SolarPowerMWh": 371.91
+  },
+  {
+   "HourUTC": "2026-03-31T11:00:00",
+   "HourDK": "2026-03-31T13:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2178.74,
+   "OffshoreWindMWh": 769.29,
+   "OnshoreWindMWh": 1286.04,
+   "SolarPowerMWh": 655.2
+  },
+  {
+   "HourUTC": "2026-03-31T11:00:00",
+   "HourDK": "2026-03-31T13:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1428.83,
+   "OffshoreWindMWh": 544.58,
+   "OnshoreWindMWh": 214.74,
+   "SolarPowerMWh": 362.08
+  },
+  {
+   "HourUTC": "2026-03-31T12:00:00",
+   "HourDK": "2026-03-31T14:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2231.57,
+   "OffshoreWindMWh": 775.36,
+   "OnshoreWindMWh": 1120.81,
+   "SolarPowerMWh": 880.88
+  },
+  {
+   "HourUTC": "2026-03-31T12:00:00",
+   "HourDK": "2026-03-31T14:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1435.28,
+   "OffshoreWindMWh": 670.07,
+   "OnshoreWindMWh": 271.97,
+   "SolarPowerMWh": 351.55
+  },
+  {
+   "HourUTC": "2026-03-31T13:00:00",
+   "HourDK": "2026-03-31T15:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2096.87,
+   "OffshoreWindMWh": 799.6,
+   "OnshoreWindMWh": 1294.37,
+   "SolarPowerMWh": 772.27
+  },
+  {
+   "HourUTC": "2026-03-31T13:00:00",
+   "HourDK": "2026-03-31T15:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1369.51,
+   "OffshoreWindMWh": 608.46,
+   "OnshoreWindMWh": 233.12,
+   "SolarPowerMWh": 205.81
+  },
+  {
+   "HourUTC": "2026-03-31T14:00:00",
+   "HourDK": "2026-03-31T16:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1989.22,
+   "OffshoreWindMWh": 699.7,
+   "OnshoreWindMWh": 1320.63,
+   "SolarPowerMWh": 510.07
+  },
+  {
+   "HourUTC": "2026-03-31T14:00:00",
+   "HourDK": "2026-03-31T16:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1261.4,
+   "OffshoreWindMWh": 691.53,
+   "OnshoreWindMWh": 254.66,
+   "SolarPowerMWh": 216.35
+  },
+  {
+   "HourUTC": "2026-03-31T15:00:00",
+   "HourDK": "2026-03-31T17:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1871.85,
+   "OffshoreWindMWh": 687.38,
+   "OnshoreWindMWh": 1418.94,
+   "SolarPowerMWh": 271.01
+  },
+  {
+   "HourUTC": "2026-03-31T15:00:00",
+   "HourDK": "2026-03-31T17:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1240.11,
+   "OffshoreWindMWh": 610.23,
+   "OnshoreWindMWh": 197.83,
+   "SolarPowerMWh": 155.56
+  },
+  {
+   "HourUTC": "2026-03-31T16:00:00",
+   "HourDK": "2026-03-31T18:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1760.75,
+   "OffshoreWindMWh": 631.4,
+   "OnshoreWindMWh": 998.17,
+   "SolarPowerMWh": 182.66
+  },
+  {
+   "HourUTC": "2026-03-31T16:00:00",
+   "HourDK": "2026-03-31T18:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1175.31,
+   "OffshoreWindMWh": 496.03,
+   "OnshoreWindMWh": 182.35,
+   "SolarPowerMWh": 90.96
+  },
+  {
+   "HourUTC": "2026-03-31T17:00:00",
+   "HourDK": "2026-03-31T19:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1681.57,
+   "OffshoreWindMWh": 555.38,
+   "OnshoreWindMWh": 820.18,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T17:00:00",
+   "HourDK": "2026-03-31T19:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1089.9,
+   "OffshoreWindMWh": 448.61,
+   "OnshoreWindMWh": 198.09,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T18:00:00",
+   "HourDK": "2026-03-31T20:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1593.62,
+   "OffshoreWindMWh": 444.94,
+   "OnshoreWindMWh": 819.11,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T18:00:00",
+   "HourDK": "2026-03-31T20:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1028.54,
+   "OffshoreWindMWh": 380.49,
+   "OnshoreWindMWh": 147.65,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T19:00:00",
+   "HourDK": "2026-03-31T21:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1485.31,
+   "OffshoreWindMWh": 417.16,
+   "OnshoreWindMWh": 787.39,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T19:00:00",
+   "HourDK": "2026-03-31T21:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 969.26,
+   "OffshoreWindMWh": 321.42,
+   "OnshoreWindMWh": 111.28,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T20:00:00",
+   "HourDK": "2026-03-31T22:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1500.2,
+   "OffshoreWindMWh": 380.59,
+   "OnshoreWindMWh": 713.74,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T20:00:00",
+   "HourDK": "2026-03-31T22:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 980.62,
+   "OffshoreWindMWh": 309.08,
+   "OnshoreWindMWh": 128.99,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T21:00:00",
+   "HourDK": "2026-03-31T23:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1495.2,
+   "OffshoreWindMWh": 295.08,
+   "OnshoreWindMWh": 501.01,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T21:00:00",
+   "HourDK": "2026-03-31T23:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 975.81,
+   "OffshoreWindMWh": 299.16,
+   "OnshoreWindMWh": 115.8,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T22:00:00",
+   "HourDK": "2026-04-01T00:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1800.68,
+   "OffshoreWindMWh": 214.65,
+   "OnshoreWindMWh": 367.9,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T22:00:00",
+   "HourDK": "2026-04-01T00:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1179.95,
+   "OffshoreWindMWh": 210.46,
+   "OnshoreWindMWh": 64.82,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T23:00:00",
+   "HourDK": "2026-04-01T01:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1827.4,
+   "OffshoreWindMWh": 261.11,
+   "OnshoreWindMWh": 513.92,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-03-31T23:00:00",
+   "HourDK": "2026-04-01T01:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1135.89,
+   "OffshoreWindMWh": 211.85,
+   "OnshoreWindMWh": 89.89,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T00:00:00",
+   "HourDK": "2026-04-01T02:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1784.57,
+   "OffshoreWindMWh": 226.44,
+   "OnshoreWindMWh": 455.2,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T00:00:00",
+   "HourDK": "2026-04-01T02:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1135.24,
+   "OffshoreWindMWh": 218.77,
+   "OnshoreWindMWh": 72.97,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T01:00:00",
+   "HourDK": "2026-04-01T03:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1754.06,
+   "OffshoreWindMWh": 315.93,
+   "OnshoreWindMWh": 664.73,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T01:00:00",
+   "HourDK": "2026-04-01T03:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1186.4,
+   "OffshoreWindMWh": 278.61,
+   "OnshoreWindMWh": 100.92,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T02:00:00",
+   "HourDK": "2026-04-01T04:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1818.73,
+   "OffshoreWindMWh": 214.36,
+   "OnshoreWindMWh": 430.5,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T02:00:00",
+   "HourDK": "2026-04-01T04:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1152.73,
+   "OffshoreWindMWh": 220.47,
+   "OnshoreWindMWh": 86.21,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T03:00:00",
+   "HourDK": "2026-04-01T05:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1921.91,
+   "OffshoreWindMWh": 294.54,
+   "OnshoreWindMWh": 528.7,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T03:00:00",
+   "HourDK": "2026-04-01T05:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1205.35,
+   "OffshoreWindMWh": 296.96,
+   "OnshoreWindMWh": 109.62,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T04:00:00",
+   "HourDK": "2026-04-01T06:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1985.82,
+   "OffshoreWindMWh": 399.4,
+   "OnshoreWindMWh": 586.08,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T04:00:00",
+   "HourDK": "2026-04-01T06:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1310.0,
+   "OffshoreWindMWh": 319.25,
+   "OnshoreWindMWh": 125.03,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T05:00:00",
+   "HourDK": "2026-04-01T07:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2101.39,
+   "OffshoreWindMWh": 463.15,
+   "OnshoreWindMWh": 715.33,
+   "SolarPowerMWh": 234.18
+  },
+  {
+   "HourUTC": "2026-04-01T05:00:00",
+   "HourDK": "2026-04-01T07:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1381.65,
+   "OffshoreWindMWh": 440.75,
+   "OnshoreWindMWh": 154.86,
+   "SolarPowerMWh": 79.94
+  },
+  {
+   "HourUTC": "2026-04-01T06:00:00",
+   "HourDK": "2026-04-01T08:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2191.96,
+   "OffshoreWindMWh": 449.23,
+   "OnshoreWindMWh": 797.45,
+   "SolarPowerMWh": 437.2
+  },
+  {
+   "HourUTC": "2026-04-01T06:00:00",
+   "HourDK": "2026-04-01T08:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1429.6,
+   "OffshoreWindMWh": 431.95,
+   "OnshoreWindMWh": 176.33,
+   "SolarPowerMWh": 128.26
+  },
+  {
+   "HourUTC": "2026-04-01T07:00:00",
+   "HourDK": "2026-04-01T09:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2234.1,
+   "OffshoreWindMWh": 527.14,
+   "OnshoreWindMWh": 1002.32,
+   "SolarPowerMWh": 623.65
+  },
+  {
+   "HourUTC": "2026-04-01T07:00:00",
+   "HourDK": "2026-04-01T09:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1423.63,
+   "OffshoreWindMWh": 470.02,
+   "OnshoreWindMWh": 194.63,
+   "SolarPowerMWh": 252.71
+  },
+  {
+   "HourUTC": "2026-04-01T08:00:00",
+   "HourDK": "2026-04-01T10:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2334.06,
+   "OffshoreWindMWh": 529.55,
+   "OnshoreWindMWh": 920.67,
+   "SolarPowerMWh": 783.52
+  },
+  {
+   "HourUTC": "2026-04-01T08:00:00",
+   "HourDK": "2026-04-01T10:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1495.6,
+   "OffshoreWindMWh": 447.18,
+   "OnshoreWindMWh": 150.3,
+   "SolarPowerMWh": 296.3
+  },
+  {
+   "HourUTC": "2026-04-01T09:00:00",
+   "HourDK": "2026-04-01T11:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2314.75,
+   "OffshoreWindMWh": 557.7,
+   "OnshoreWindMWh": 924.01,
+   "SolarPowerMWh": 599.25
+  },
+  {
+   "HourUTC": "2026-04-01T09:00:00",
+   "HourDK": "2026-04-01T11:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1477.93,
+   "OffshoreWindMWh": 479.31,
+   "OnshoreWindMWh": 200.62,
+   "SolarPowerMWh": 287.75
+  },
+  {
+   "HourUTC": "2026-04-01T10:00:00",
+   "HourDK": "2026-04-01T12:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2323.22,
+   "OffshoreWindMWh": 559.5,
+   "OnshoreWindMWh": 1066.24,
+   "SolarPowerMWh": 937.76
+  },
+  {
+   "HourUTC": "2026-04-01T10:00:00",
+   "HourDK": "2026-04-01T12:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1488.71,
+   "OffshoreWindMWh": 513.29,
+   "OnshoreWindMWh": 179.54,
+   "SolarPowerMWh": 257.72
+  },
+  {
+   "HourUTC": "2026-04-01T11:00:00",
+   "HourDK": "2026-04-01T13:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2226.06,
+   "OffshoreWindMWh": 644.17,
+   "OnshoreWindMWh": 1069.21,
+   "SolarPowerMWh": 771.91
+  },
+  {
+   "HourUTC": "2026-04-01T11:00:00",
+   "HourDK": "2026-04-01T13:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1433.0,
+   "OffshoreWindMWh": 482.99,
+   "OnshoreWindMWh": 253.09,
+   "SolarPowerMWh": 290.2
+  },
+  {
+   "HourUTC": "2026-04-01T12:00:00",
+   "HourDK": "2026-04-01T14:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2216.31,
+   "OffshoreWindMWh": 636.21,
+   "OnshoreWindMWh": 1242.27,
+   "SolarPowerMWh": 656.16
+  },
+  {
+   "HourUTC": "2026-04-01T12:00:00",
+   "HourDK": "2026-04-01T14:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1381.15,
+   "OffshoreWindMWh": 646.39,
+   "OnshoreWindMWh": 263.72,
+   "SolarPowerMWh": 292.23
+  },
+  {
+   "HourUTC": "2026-04-01T13:00:00",
+   "HourDK": "2026-04-01T15:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 2128.06,
+   "OffshoreWindMWh": 634.59,
+   "OnshoreWindMWh": 1302.26,
+   "SolarPowerMWh": 730.47
+  },
+  {
+   "HourUTC": "2026-04-01T13:00:00",
+   "HourDK": "2026-04-01T15:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1391.11,
+   "OffshoreWindMWh": 602.17,
+   "OnshoreWindMWh": 199.75,
+   "SolarPowerMWh": 190.78
+  },
+  {
+   "HourUTC": "2026-04-01T14:00:00",
+   "HourDK": "2026-04-01T16:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1943.36,
+   "OffshoreWindMWh": 614.1,
+   "OnshoreWindMWh": 1213.51,
+   "SolarPowerMWh": 618.76
+  },
+  {
+   "HourUTC": "2026-04-01T14:00:00",
+   "HourDK": "2026-04-01T16:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1331.85,
+   "OffshoreWindMWh": 521.32,
+   "OnshoreWindMWh": 239.28,
+   "SolarPowerMWh": 196.64
+  },
+  {
+   "HourUTC": "2026-04-01T15:00:00",
+   "HourDK": "2026-04-01T17:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1858.52,
+   "OffshoreWindMWh": 806.93,
+   "OnshoreWindMWh": 1455.92,
+   "SolarPowerMWh": 451.16
+  },
+  {
+   "HourUTC": "2026-04-01T15:00:00",
+   "HourDK": "2026-04-01T17:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1242.53,
+   "OffshoreWindMWh": 657.15,
+   "OnshoreWindMWh": 264.79,
+   "SolarPowerMWh": 117.92
+  },
+  {
+   "HourUTC": "2026-04-01T16:00:00",
+   "HourDK": "2026-04-01T18:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1749.15,
+   "OffshoreWindMWh": 677.54,
+   "OnshoreWindMWh": 1202.88,
+   "SolarPowerMWh": 168.69
+  },
+  {
+   "HourUTC": "2026-04-01T16:00:00",
+   "HourDK": "2026-04-01T18:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1183.59,
+   "OffshoreWindMWh": 574.49,
+   "OnshoreWindMWh": 281.82,
+   "SolarPowerMWh": 84.41
+  },
+  {
+   "HourUTC": "2026-04-01T17:00:00",
+   "HourDK": "2026-04-01T19:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1634.25,
+   "OffshoreWindMWh": 595.89,
+   "OnshoreWindMWh": 1229.53,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T17:00:00",
+   "HourDK": "2026-04-01T19:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1106.62,
+   "OffshoreWindMWh": 522.95,
+   "OnshoreWindMWh": 226.42,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T18:00:00",
+   "HourDK": "2026-04-01T20:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1570.03,
+   "OffshoreWindMWh": 623.55,
+   "OnshoreWindMWh": 1178.48,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T18:00:00",
+   "HourDK": "2026-04-01T20:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 1050.16,
+   "OffshoreWindMWh": 513.35,
+   "OnshoreWindMWh": 248.35,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T19:00:00",
+   "HourDK": "2026-04-01T21:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1501.85,
+   "OffshoreWindMWh": 896.42,
+   "OnshoreWindMWh": 1610.04,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T19:00:00",
+   "HourDK": "2026-04-01T21:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 974.64,
+   "OffshoreWindMWh": 683.69,
+   "OnshoreWindMWh": 237.76,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T20:00:00",
+   "HourDK": "2026-04-01T22:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1481.86,
+   "OffshoreWindMWh": 718.73,
+   "OnshoreWindMWh": 1447.6,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T20:00:00",
+   "HourDK": "2026-04-01T22:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 953.01,
+   "OffshoreWindMWh": 568.49,
+   "OnshoreWindMWh": 271.73,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T21:00:00",
+   "HourDK": "2026-04-01T23:00:00",
+   "PriceArea": "DK1",
+   "GrossConsumptionMWh": 1451.37,
+   "OffshoreWindMWh": 805.49,
+   "OnshoreWindMWh": 1258.44,
+   "SolarPowerMWh": 0.0
+  },
+  {
+   "HourUTC": "2026-04-01T21:00:00",
+   "HourDK": "2026-04-01T23:00:00",
+   "PriceArea": "DK2",
+   "GrossConsumptionMWh": 979.56,
+   "OffshoreWindMWh": 669.63,
+   "OnshoreWindMWh": 245.89,
+   "SolarPowerMWh": 0.0
+  }
+ ]
+}

@@ -1,0 +1,2342 @@
+{
+ "records": [
+  {
+   "HourUTC": "2026-03-31T08:00:00",
+   "HourDK": "2026-03-31T10:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 519.6,
+   "SpotPriceEUR": 69.65
+  },
+  {
+   "HourUTC": "2026-03-31T21:00:00",
+   "HourDK": "2026-03-31T23:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 602.95,
+   "SpotPriceEUR": 80.82
+  },
+  {
+   "HourUTC": "2026-03-29T05:00:00",
+   "HourDK": "2026-03-29T07:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 560.76,
+   "SpotPriceEUR": 75.17
+  },
+  {
+   "HourUTC": "2026-04-01T01:00:00",
+   "HourDK": "2026-04-01T03:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 594.32,
+   "SpotPriceEUR": 79.67
+  },
+  {
+   "HourUTC": "2026-03-27T17:00:00",
+   "HourDK": "2026-03-27T18:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 375.06,
+   "SpotPriceEUR": 50.28
+  },
+  {
+   "HourUTC": "2026-04-01T10:00:00",
+   "HourDK": "2026-04-01T12:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 401.97,
+   "SpotPriceEUR": 53.88
+  },
+  {
+   "HourUTC": "2026-03-30T21:00:00",
+   "HourDK": "2026-03-30T23:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 458.45,
+   "SpotPriceEUR": 61.45
+  },
+  {
+   "HourUTC": "2026-04-01T21:00:00",
+   "HourDK": "2026-04-01T23:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 373.53,
+   "SpotPriceEUR": 50.07
+  },
+  {
+   "HourUTC": "2026-03-26T18:00:00",
+   "HourDK": "2026-03-26T19:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 420.02,
+   "SpotPriceEUR": 56.3
+  },
+  {
+   "HourUTC": "2026-03-26T00:00:00",
+   "HourDK": "2026-03-26T01:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 516.46,
+   "SpotPriceEUR": 69.23
+  },
+  {
+   "HourUTC": "2026-04-01T09:00:00",
+   "HourDK": "2026-04-01T11:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 635.69,
+   "SpotPriceEUR": 85.21
+  },
+  {
+   "HourUTC": "2026-03-31T16:00:00",
+   "HourDK": "2026-03-31T18:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 409.4,
+   "SpotPriceEUR": 54.88
+  },
+  {
+   "HourUTC": "2026-03-30T08:00:00",
+   "HourDK": "2026-03-30T10:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 424.42,
+   "SpotPriceEUR": 56.89
+  },
+  {
+   "HourUTC": "2026-03-26T20:00:00",
+   "HourDK": "2026-03-26T21:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 510.02,
+   "SpotPriceEUR": 68.37
+  },
+  {
+   "HourUTC": "2026-04-01T16:00:00",
+   "HourDK": "2026-04-01T18:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 437.94,
+   "SpotPriceEUR": 58.71
+  },
+  {
+   "HourUTC": "2026-03-31T04:00:00",
+   "HourDK": "2026-03-31T06:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 370.49,
+   "SpotPriceEUR": 49.66
+  },
+  {
+   "HourUTC": "2026-03-31T13:00:00",
+   "HourDK": "2026-03-31T15:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 473.71,
+   "SpotPriceEUR": 63.5
+  },
+  {
+   "HourUTC": "2026-03-27T11:00:00",
+   "HourDK": "2026-03-27T12:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 321.46,
+   "SpotPriceEUR": 43.09
+  },
+  {
+   "HourUTC": "2026-03-28T21:00:00",
+   "HourDK": "2026-03-28T22:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 299.68,
+   "SpotPriceEUR": 40.17
+  },
+  {
+   "HourUTC": "2026-03-31T15:00:00",
+   "HourDK": "2026-03-31T17:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 179.77,
+   "SpotPriceEUR": 24.1
+  },
+  {
+   "HourUTC": "2026-03-27T23:00:00",
+   "HourDK": "2026-03-28T00:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 561.6,
+   "SpotPriceEUR": 75.28
+  },
+  {
+   "HourUTC": "2026-03-28T11:00:00",
+   "HourDK": "2026-03-28T12:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 604.76,
+   "SpotPriceEUR": 81.07
+  },
+  {
+   "HourUTC": "2026-03-28T13:00:00",
+   "HourDK": "2026-03-28T14:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 567.6,
+   "SpotPriceEUR": 76.09
+  },
+  {
+   "HourUTC": "2026-03-27T19:00:00",
+   "HourDK": "2026-03-27T20:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 443.84,
+   "SpotPriceEUR": 59.5
+  },
+  {
+   "HourUTC": "2026-04-01T10:00:00",
+   "HourDK": "2026-04-01T12:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 502.9,
+   "SpotPriceEUR": 67.41
+  },
+  {
+   "HourUTC": "2026-04-01T14:00:00",
+   "HourDK": "2026-04-01T16:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 139.16,
+   "SpotPriceEUR": 18.65
+  },
+  {
+   "HourUTC": "2026-03-29T07:00:00",
+   "HourDK": "2026-03-29T09:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 464.85,
+   "SpotPriceEUR": 62.31
+  },
+  {
+   "HourUTC": "2026-03-30T02:00:00",
+   "HourDK": "2026-03-30T04:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 141.21,
+   "SpotPriceEUR": 18.93
+  },
+  {
+   "HourUTC": "2026-03-30T00:00:00",
+   "HourDK": "2026-03-30T02:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 512.88,
+   "SpotPriceEUR": 68.75
+  },
+  {
+   "HourUTC": "2026-03-30T12:00:00",
+   "HourDK": "2026-03-30T14:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 449.0,
+   "SpotPriceEUR": 60.19
+  },
+  {
+   "HourUTC": "2026-04-01T08:00:00",
+   "HourDK": "2026-04-01T10:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 588.08,
+   "SpotPriceEUR": 78.83
+  },
+  {
+   "HourUTC": "2026-03-28T16:00:00",
+   "HourDK": "2026-03-28T17:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 491.18,
+   "SpotPriceEUR": 65.84
+  },
+  {
+   "HourUTC": "2026-04-01T14:00:00",
+   "HourDK": "2026-04-01T16:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 545.62,
+   "SpotPriceEUR": 73.14
+  },
+  {
+   "HourUTC": "2026-03-27T08:00:00",
+   "HourDK": "2026-03-27T09:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 540.84,
+   "SpotPriceEUR": 72.5
+  },
+  {
+   "HourUTC": "2026-03-27T22:00:00",
+   "HourDK": "2026-03-27T23:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 427.88,
+   "SpotPriceEUR": 57.36
+  },
+  {
+   "HourUTC": "2026-04-01T03:00:00",
+   "HourDK": "2026-04-01T05:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 705.16,
+   "SpotPriceEUR": 94.53
+  },
+  {
+   "HourUTC": "2026-03-26T23:00:00",
+   "HourDK": "2026-03-27T00:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 382.44,
+   "SpotPriceEUR": 51.27
+  },
+  {
+   "HourUTC": "2026-03-28T09:00:00",
+   "HourDK": "2026-03-28T10:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 538.2,
+   "SpotPriceEUR": 72.15
+  },
+  {
+   "HourUTC": "2026-03-30T09:00:00",
+   "HourDK": "2026-03-30T11:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 114.31,
+   "SpotPriceEUR": 15.32
+  },
+  {
+   "HourUTC": "2026-04-01T06:00:00",
+   "HourDK": "2026-04-01T08:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 478.16,
+   "SpotPriceEUR": 64.1
+  },
+  {
+   "HourUTC": "2026-03-26T11:00:00",
+   "HourDK": "2026-03-26T12:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 614.97,
+   "SpotPriceEUR": 82.44
+  },
+  {
+   "HourUTC": "2026-04-01T08:00:00",
+   "HourDK": "2026-04-01T10:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 422.11,
+   "SpotPriceEUR": 56.58
+  },
+  {
+   "HourUTC": "2026-03-30T17:00:00",
+   "HourDK": "2026-03-30T19:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 492.01,
+   "SpotPriceEUR": 65.95
+  },
+  {
+   "HourUTC": "2026-03-31T23:00:00",
+   "HourDK": "2026-04-01T01:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 692.43,
+   "SpotPriceEUR": 92.82
+  },
+  {
+   "HourUTC": "2026-03-31T18:00:00",
+   "HourDK": "2026-03-31T20:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 436.67,
+   "SpotPriceEUR": 58.53
+  },
+  {
+   "HourUTC": "2026-03-27T05:00:00",
+   "HourDK": "2026-03-27T06:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 471.2,
+   "SpotPriceEUR": 63.16
+  },
+  {
+   "HourUTC": "2026-03-30T11:00:00",
+   "HourDK": "2026-03-30T13:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 227.03,
+   "SpotPriceEUR": 30.43
+  },
+  {
+   "HourUTC": "2026-03-28T04:00:00",
+   "HourDK": "2026-03-28T05:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 582.7,
+   "SpotPriceEUR": 78.11
+  },
+  {
+   "HourUTC": "2026-03-30T16:00:00",
+   "HourDK": "2026-03-30T18:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 386.16,
+   "SpotPriceEUR": 51.76
+  },
+  {
+   "HourUTC": "2026-04-01T05:00:00",
+   "HourDK": "2026-04-01T07:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 706.12,
+   "SpotPriceEUR": 94.65
+  },
+  {
+   "HourUTC": "2026-03-27T02:00:00",
+   "HourDK": "2026-03-27T03:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 382.12,
+   "SpotPriceEUR": 51.22
+  },
+  {
+   "HourUTC": "2026-03-31T18:00:00",
+   "HourDK": "2026-03-31T20:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 453.65,
+   "SpotPriceEUR": 60.81
+  },
+  {
+   "HourUTC": "2026-03-29T22:00:00",
+   "HourDK": "2026-03-30T00:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 428.54,
+   "SpotPriceEUR": 57.44
+  },
+  {
+   "HourUTC": "2026-03-29T20:00:00",
+   "HourDK": "2026-03-29T22:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 295.97,
+   "SpotPriceEUR": 39.67
+  },
+  {
+   "HourUTC": "2026-03-26T08:00:00",
+   "HourDK": "2026-03-26T09:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 525.58,
+   "SpotPriceEUR": 70.45
+  },
+  {
+   "HourUTC": "2026-03-31T22:00:00",
+   "HourDK": "2026-04-01T00:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 701.93,
+   "SpotPriceEUR": 94.09
+  },
+  {
+   "HourUTC": "2026-04-01T11:00:00",
+   "HourDK": "2026-04-01T13:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 426.71,
+   "SpotPriceEUR": 57.2
+  },
+  {
+   "HourUTC": "2026-03-26T10:00:00",
+   "HourDK": "2026-03-26T11:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 578.79,
+   "SpotPriceEUR": 77.59
+  },
+  {
+   "HourUTC": "2026-03-30T19:00:00",
+   "HourDK": "2026-03-30T21:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 541.44,
+   "SpotPriceEUR": 72.58
+  },
+  {
+   "HourUTC": "2026-03-27T13:00:00",
+   "HourDK": "2026-03-27T14:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 541.39,
+   "SpotPriceEUR": 72.57
+  },
+  {
+   "HourUTC": "2026-03-30T19:00:00",
+   "HourDK": "2026-03-30T21:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 588.44,
+   "SpotPriceEUR": 78.88
+  },
+  {
+   "HourUTC": "2026-04-01T04:00:00",
+   "HourDK": "2026-04-01T06:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 615.4,
+   "SpotPriceEUR": 82.49
+  },
+  {
+   "HourUTC": "2026-03-31T06:00:00",
+   "HourDK": "2026-03-31T08:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 642.41,
+   "SpotPriceEUR": 86.11
+  },
+  {
+   "HourUTC": "2026-03-28T13:00:00",
+   "HourDK": "2026-03-28T14:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 664.43,
+   "SpotPriceEUR": 89.07
+  },
+  {
+   "HourUTC": "2026-03-29T08:00:00",
+   "HourDK": "2026-03-29T10:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 485.31,
+   "SpotPriceEUR": 65.05
+  },
+  {
+   "HourUTC": "2026-03-30T05:00:00",
+   "HourDK": "2026-03-30T07:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 263.24,
+   "SpotPriceEUR": 35.29
+  },
+  {
+   "HourUTC": "2026-03-29T18:00:00",
+   "HourDK": "2026-03-29T20:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 326.54,
+   "SpotPriceEUR": 43.77
+  },
+  {
+   "HourUTC": "2026-03-31T23:00:00",
+   "HourDK": "2026-04-01T01:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 695.4,
+   "SpotPriceEUR": 93.22
+  },
+  {
+   "HourUTC": "2026-03-29T12:00:00",
+   "HourDK": "2026-03-29T14:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 337.36,
+   "SpotPriceEUR": 45.22
+  },
+  {
+   "HourUTC": "2026-03-30T23:00:00",
+   "HourDK": "2026-03-31T01:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 450.6,
+   "SpotPriceEUR": 60.4
+  },
+  {
+   "HourUTC": "2026-03-27T01:00:00",
+   "HourDK": "2026-03-27T02:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 329.05,
+   "SpotPriceEUR": 44.11
+  },
+  {
+   "HourUTC": "2026-03-29T11:00:00",
+   "HourDK": "2026-03-29T13:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 442.73,
+   "SpotPriceEUR": 59.35
+  },
+  {
+   "HourUTC": "2026-03-26T07:00:00",
+   "HourDK": "2026-03-26T08:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 435.77,
+   "SpotPriceEUR": 58.41
+  },
+  {
+   "HourUTC": "2026-03-27T18:00:00",
+   "HourDK": "2026-03-27T19:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 546.32,
+   "SpotPriceEUR": 73.23
+  },
+  {
+   "HourUTC": "2026-03-28T14:00:00",
+   "HourDK": "2026-03-28T15:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 601.41,
+   "SpotPriceEUR": 80.62
+  },
+  {
+   "HourUTC": "2026-03-27T03:00:00",
+   "HourDK": "2026-03-27T04:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 487.46,
+   "SpotPriceEUR": 65.34
+  },
+  {
+   "HourUTC": "2026-03-31T00:00:00",
+   "HourDK": "2026-03-31T02:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 487.24,
+   "SpotPriceEUR": 65.31
+  },
+  {
+   "HourUTC": "2026-03-31T09:00:00",
+   "HourDK": "2026-03-31T11:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 449.96,
+   "SpotPriceEUR": 60.32
+  },
+  {
+   "HourUTC": "2026-03-27T12:00:00",
+   "HourDK": "2026-03-27T13:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 517.94,
+   "SpotPriceEUR": 69.43
+  },
+  {
+   "HourUTC": "2026-03-27T04:00:00",
+   "HourDK": "2026-03-27T05:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 452.77,
+   "SpotPriceEUR": 60.69
+  },
+  {
+   "HourUTC": "2026-03-26T04:00:00",
+   "HourDK": "2026-03-26T05:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 626.6,
+   "SpotPriceEUR": 83.99
+  },
+  {
+   "HourUTC": "2026-03-28T03:00:00",
+   "HourDK": "2026-03-28T04:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 553.58,
+   "SpotPriceEUR": 74.21
+  },
+  {
+   "HourUTC": "2026-03-27T07:00:00",
+   "HourDK": "2026-03-27T08:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 425.38,
+   "SpotPriceEUR": 57.02
+  },
+  {
+   "HourUTC": "2026-03-27T13:00:00",
+   "HourDK": "2026-03-27T14:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 515.3,
+   "SpotPriceEUR": 69.08
+  },
+  {
+   "HourUTC": "2026-03-30T04:00:00",
+   "HourDK": "2026-03-30T06:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 541.97,
+   "SpotPriceEUR": 72.65
+  },
+  {
+   "HourUTC": "2026-03-30T18:00:00",
+   "HourDK": "2026-03-30T20:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 390.18,
+   "SpotPriceEUR": 52.3
+  },
+  {
+   "HourUTC": "2026-03-26T09:00:00",
+   "HourDK": "2026-03-26T10:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 458.99,
+   "SpotPriceEUR": 61.53
+  },
+  {
+   "HourUTC": "2026-03-28T06:00:00",
+   "HourDK": "2026-03-28T07:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 594.49,
+   "SpotPriceEUR": 79.69
+  },
+  {
+   "HourUTC": "2026-03-31T21:00:00",
+   "HourDK": "2026-03-31T23:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 535.58,
+   "SpotPriceEUR": 71.79
+  },
+  {
+   "HourUTC": "2026-03-26T18:00:00",
+   "HourDK": "2026-03-26T19:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 462.65,
+   "SpotPriceEUR": 62.02
+  },
+  {
+   "HourUTC": "2026-03-26T06:00:00",
+   "HourDK": "2026-03-26T07:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 649.42,
+   "SpotPriceEUR": 87.05
+  },
+  {
+   "HourUTC": "2026-03-26T17:00:00",
+   "HourDK": "2026-03-26T18:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 299.27,
+   "SpotPriceEUR": 40.12
+  },
+  {
+   "HourUTC": "2026-03-28T07:00:00",
+   "HourDK": "2026-03-28T08:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 658.67,
+   "SpotPriceEUR": 88.29
+  },
+  {
+   "HourUTC": "2026-03-31T00:00:00",
+   "HourDK": "2026-03-31T02:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 489.01,
+   "SpotPriceEUR": 65.55
+  },
+  {
+   "HourUTC": "2026-03-27T02:00:00",
+   "HourDK": "2026-03-27T03:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 464.37,
+   "SpotPriceEUR": 62.25
+  },
+  {
+   "HourUTC": "2026-03-31T03:00:00",
+   "HourDK": "2026-03-31T05:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 590.12,
+   "SpotPriceEUR": 79.1
+  },
+  {
+   "HourUTC": "2026-03-30T01:00:00",
+   "HourDK": "2026-03-30T03:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 458.98,
+   "SpotPriceEUR": 61.52
+  },
+  {
+   "HourUTC": "2026-04-01T06:00:00",
+   "HourDK": "2026-04-01T08:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 654.7,
+   "SpotPriceEUR": 87.76
+  },
+  {
+   "HourUTC": "2026-03-26T15:00:00",
+   "HourDK": "2026-03-26T16:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 473.52,
+   "SpotPriceEUR": 63.47
+  },
+  {
+   "HourUTC": "2026-03-26T05:00:00",
+   "HourDK": "2026-03-26T06:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 501.65,
+   "SpotPriceEUR": 67.24
+  },
+  {
+   "HourUTC": "2026-03-31T19:00:00",
+   "HourDK": "2026-03-31T21:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 405.29,
+   "SpotPriceEUR": 54.33
+  },
+  {
+   "HourUTC": "2026-03-29T00:00:00",
+   "HourDK": "2026-03-29T01:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 410.39,
+   "SpotPriceEUR": 55.01
+  },
+  {
+   "HourUTC": "2026-03-29T17:00:00",
+   "HourDK": "2026-03-29T19:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 502.74,
+   "SpotPriceEUR": 67.39
+  },
+  {
+   "HourUTC": "2026-03-27T15:00:00",
+   "HourDK": "2026-03-27T16:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 174.83,
+   "SpotPriceEUR": 23.44
+  },
+  {
+   "HourUTC": "2026-03-31T17:00:00",
+   "HourDK": "2026-03-31T19:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 554.5,
+   "SpotPriceEUR": 74.33
+  },
+  {
+   "HourUTC": "2026-03-30T12:00:00",
+   "HourDK": "2026-03-30T14:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 314.24,
+   "SpotPriceEUR": 42.12
+  },
+  {
+   "HourUTC": "2026-03-29T15:00:00",
+   "HourDK": "2026-03-29T17:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 411.25,
+   "SpotPriceEUR": 55.13
+  },
+  {
+   "HourUTC": "2026-03-30T10:00:00",
+   "HourDK": "2026-03-30T12:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 607.93,
+   "SpotPriceEUR": 81.49
+  },
+  {
+   "HourUTC": "2026-03-30T11:00:00",
+   "HourDK": "2026-03-30T13:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 552.18,
+   "SpotPriceEUR": 74.02
+  },
+  {
+   "HourUTC": "2026-03-28T23:00:00",
+   "HourDK": "2026-03-29T00:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 365.09,
+   "SpotPriceEUR": 48.94
+  },
+  {
+   "HourUTC": "2026-03-29T15:00:00",
+   "HourDK": "2026-03-29T17:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 219.73,
+   "SpotPriceEUR": 29.45
+  },
+  {
+   "HourUTC": "2026-03-29T07:00:00",
+   "HourDK": "2026-03-29T09:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 402.51,
+   "SpotPriceEUR": 53.96
+  },
+  {
+   "HourUTC": "2026-03-28T09:00:00",
+   "HourDK": "2026-03-28T10:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 652.93,
+   "SpotPriceEUR": 87.52
+  },
+  {
+   "HourUTC": "2026-03-30T13:00:00",
+   "HourDK": "2026-03-30T15:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 466.29,
+   "SpotPriceEUR": 62.51
+  },
+  {
+   "HourUTC": "2026-03-30T18:00:00",
+   "HourDK": "2026-03-30T20:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 489.87,
+   "SpotPriceEUR": 65.67
+  },
+  {
+   "HourUTC": "2026-03-29T12:00:00",
+   "HourDK": "2026-03-29T14:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 439.27,
+   "SpotPriceEUR": 58.88
+  },
+  {
+   "HourUTC": "2026-03-30T10:00:00",
+   "HourDK": "2026-03-30T12:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 429.0,
+   "SpotPriceEUR": 57.51
+  },
+  {
+   "HourUTC": "2026-03-27T15:00:00",
+   "HourDK": "2026-03-27T16:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 551.83,
+   "SpotPriceEUR": 73.97
+  },
+  {
+   "HourUTC": "2026-03-29T10:00:00",
+   "HourDK": "2026-03-29T12:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 338.76,
+   "SpotPriceEUR": 45.41
+  },
+  {
+   "HourUTC": "2026-03-30T22:00:00",
+   "HourDK": "2026-03-31T00:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 517.57,
+   "SpotPriceEUR": 69.38
+  },
+  {
+   "HourUTC": "2026-03-27T00:00:00",
+   "HourDK": "2026-03-27T01:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 360.99,
+   "SpotPriceEUR": 48.39
+  },
+  {
+   "HourUTC": "2026-03-27T01:00:00",
+   "HourDK": "2026-03-27T02:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 591.56,
+   "SpotPriceEUR": 79.3
+  },
+  {
+   "HourUTC": "2026-03-28T16:00:00",
+   "HourDK": "2026-03-28T17:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 429.22,
+   "SpotPriceEUR": 57.54
+  },
+  {
+   "HourUTC": "2026-03-29T14:00:00",
+   "HourDK": "2026-03-29T16:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 260.4,
+   "SpotPriceEUR": 34.91
+  },
+  {
+   "HourUTC": "2026-03-29T05:00:00",
+   "HourDK": "2026-03-29T07:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 419.81,
+   "SpotPriceEUR": 56.27
+  },
+  {
+   "HourUTC": "2026-03-30T00:00:00",
+   "HourDK": "2026-03-30T02:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 283.98,
+   "SpotPriceEUR": 38.07
+  },
+  {
+   "HourUTC": "2026-03-30T05:00:00",
+   "HourDK": "2026-03-30T07:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 447.45,
+   "SpotPriceEUR": 59.98
+  },
+  {
+   "HourUTC": "2026-03-27T00:00:00",
+   "HourDK": "2026-03-27T01:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 525.64,
+   "SpotPriceEUR": 70.46
+  },
+  {
+   "HourUTC": "2026-03-28T06:00:00",
+   "HourDK": "2026-03-28T07:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 624.51,
+   "SpotPriceEUR": 83.71
+  },
+  {
+   "HourUTC": "2026-03-31T20:00:00",
+   "HourDK": "2026-03-31T22:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 454.01,
+   "SpotPriceEUR": 60.86
+  },
+  {
+   "HourUTC": "2026-03-26T07:00:00",
+   "HourDK": "2026-03-26T08:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 586.02,
+   "SpotPriceEUR": 78.56
+  },
+  {
+   "HourUTC": "2026-03-26T22:00:00",
+   "HourDK": "2026-03-26T23:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 490.06,
+   "SpotPriceEUR": 65.69
+  },
+  {
+   "HourUTC": "2026-03-30T15:00:00",
+   "HourDK": "2026-03-30T17:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 498.05,
+   "SpotPriceEUR": 66.76
+  },
+  {
+   "HourUTC": "2026-03-27T21:00:00",
+   "HourDK": "2026-03-27T22:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 672.53,
+   "SpotPriceEUR": 90.15
+  },
+  {
+   "HourUTC": "2026-03-26T00:00:00",
+   "HourDK": "2026-03-26T01:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 571.31,
+   "SpotPriceEUR": 76.58
+  },
+  {
+   "HourUTC": "2026-04-01T19:00:00",
+   "HourDK": "2026-04-01T21:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 470.18,
+   "SpotPriceEUR": 63.03
+  },
+  {
+   "HourUTC": "2026-03-27T06:00:00",
+   "HourDK": "2026-03-27T07:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 410.8,
+   "SpotPriceEUR": 55.07
+  },
+  {
+   "HourUTC": "2026-03-27T20:00:00",
+   "HourDK": "2026-03-27T21:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 511.72,
+   "SpotPriceEUR": 68.59
+  },
+  {
+   "HourUTC": "2026-03-29T09:00:00",
+   "HourDK": "2026-03-29T11:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 391.19,
+   "SpotPriceEUR": 52.44
+  },
+  {
+   "HourUTC": "2026-03-31T01:00:00",
+   "HourDK": "2026-03-31T03:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 302.52,
+   "SpotPriceEUR": 40.55
+  },
+  {
+   "HourUTC": "2026-04-01T11:00:00",
+   "HourDK": "2026-04-01T13:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 582.88,
+   "SpotPriceEUR": 78.13
+  },
+  {
+   "HourUTC": "2026-03-29T11:00:00",
+   "HourDK": "2026-03-29T13:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 263.15,
+   "SpotPriceEUR": 35.27
+  },
+  {
+   "HourUTC": "2026-04-01T12:00:00",
+   "HourDK": "2026-04-01T14:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 455.51,
+   "SpotPriceEUR": 61.06
+  },
+  {
+   "HourUTC": "2026-03-30T20:00:00",
+   "HourDK": "2026-03-30T22:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 394.72,
+   "SpotPriceEUR": 52.91
+  },
+  {
+   "HourUTC": "2026-03-31T15:00:00",
+   "HourDK": "2026-03-31T17:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 425.69,
+   "SpotPriceEUR": 57.06
+  },
+  {
+   "HourUTC": "2026-04-01T02:00:00",
+   "HourDK": "2026-04-01T04:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 582.51,
+   "SpotPriceEUR": 78.08
+  },
+  {
+   "HourUTC": "2026-03-27T17:00:00",
+   "HourDK": "2026-03-27T18:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 432.23,
+   "SpotPriceEUR": 57.94
+  },
+  {
+   "HourUTC": "2026-03-30T02:00:00",
+   "HourDK": "2026-03-30T04:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 454.35,
+   "SpotPriceEUR": 60.9
+  },
+  {
+   "HourUTC": "2026-03-28T02:00:00",
+   "HourDK": "2026-03-28T03:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 662.07,
+   "SpotPriceEUR": 88.75
+  },
+  {
+   "HourUTC": "2026-03-27T18:00:00",
+   "HourDK": "2026-03-27T19:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 398.24,
+   "SpotPriceEUR": 53.38
+  },
+  {
+   "HourUTC": "2026-04-01T00:00:00",
+   "HourDK": "2026-04-01T02:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 704.39,
+   "SpotPriceEUR": 94.42
+  },
+  {
+   "HourUTC": "2026-03-26T05:00:00",
+   "HourDK": "2026-03-26T06:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 524.83,
+   "SpotPriceEUR": 70.35
+  },
+  {
+   "HourUTC": "2026-03-29T08:00:00",
+   "HourDK": "2026-03-29T10:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 281.71,
+   "SpotPriceEUR": 37.76
+  },
+  {
+   "HourUTC": "2026-03-26T03:00:00",
+   "HourDK": "2026-03-26T04:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 669.09,
+   "SpotPriceEUR": 89.69
+  },
+  {
+   "HourUTC": "2026-03-28T18:00:00",
+   "HourDK": "2026-03-28T19:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 575.52,
+   "SpotPriceEUR": 77.15
+  },
+  {
+   "HourUTC": "2026-03-29T04:00:00",
+   "HourDK": "2026-03-29T06:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 557.83,
+   "SpotPriceEUR": 74.78
+  },
+  {
+   "HourUTC": "2026-03-31T04:00:00",
+   "HourDK": "2026-03-31T06:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 554.07,
+   "SpotPriceEUR": 74.27
+  },
+  {
+   "HourUTC": "2026-03-28T05:00:00",
+   "HourDK": "2026-03-28T06:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 595.22,
+   "SpotPriceEUR": 79.79
+  },
+  {
+   "HourUTC": "2026-03-28T00:00:00",
+   "HourDK": "2026-03-28T01:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 583.47,
+   "SpotPriceEUR": 78.21
+  },
+  {
+   "HourUTC": "2026-03-30T01:00:00",
+   "HourDK": "2026-03-30T03:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 260.31,
+   "SpotPriceEUR": 34.89
+  },
+  {
+   "HourUTC": "2026-03-30T07:00:00",
+   "HourDK": "2026-03-30T09:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 346.88,
+   "SpotPriceEUR": 46.5
+  },
+  {
+   "HourUTC": "2026-03-28T02:00:00",
+   "HourDK": "2026-03-28T03:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 469.14,
+   "SpotPriceEUR": 62.89
+  },
+  {
+   "HourUTC": "2026-03-29T23:00:00",
+   "HourDK": "2026-03-30T01:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 236.87,
+   "SpotPriceEUR": 31.75
+  },
+  {
+   "HourUTC": "2026-04-01T05:00:00",
+   "HourDK": "2026-04-01T07:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 554.65,
+   "SpotPriceEUR": 74.35
+  },
+  {
+   "HourUTC": "2026-03-26T17:00:00",
+   "HourDK": "2026-03-26T18:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 483.27,
+   "SpotPriceEUR": 64.78
+  },
+  {
+   "HourUTC": "2026-03-29T10:00:00",
+   "HourDK": "2026-03-29T12:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 458.42,
+   "SpotPriceEUR": 61.45
+  },
+  {
+   "HourUTC": "2026-03-26T19:00:00",
+   "HourDK": "2026-03-26T20:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 438.39,
+   "SpotPriceEUR": 58.77
+  },
+  {
+   "HourUTC": "2026-03-29T03:00:00",
+   "HourDK": "2026-03-29T05:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 433.95,
+   "SpotPriceEUR": 58.17
+  },
+  {
+   "HourUTC": "2026-03-28T20:00:00",
+   "HourDK": "2026-03-28T21:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 548.39,
+   "SpotPriceEUR": 73.51
+  },
+  {
+   "HourUTC": "2026-03-26T16:00:00",
+   "HourDK": "2026-03-26T17:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 532.35,
+   "SpotPriceEUR": 71.36
+  },
+  {
+   "HourUTC": "2026-03-31T17:00:00",
+   "HourDK": "2026-03-31T19:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 540.66,
+   "SpotPriceEUR": 72.47
+  },
+  {
+   "HourUTC": "2026-03-29T13:00:00",
+   "HourDK": "2026-03-29T15:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 481.15,
+   "SpotPriceEUR": 64.5
+  },
+  {
+   "HourUTC": "2026-03-29T21:00:00",
+   "HourDK": "2026-03-29T23:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 552.06,
+   "SpotPriceEUR": 74.0
+  },
+  {
+   "HourUTC": "2026-03-31T14:00:00",
+   "HourDK": "2026-03-31T16:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 406.86,
+   "SpotPriceEUR": 54.54
+  },
+  {
+   "HourUTC": "2026-04-01T07:00:00",
+   "HourDK": "2026-04-01T09:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 431.94,
+   "SpotPriceEUR": 57.9
+  },
+  {
+   "HourUTC": "2026-03-28T15:00:00",
+   "HourDK": "2026-03-28T16:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 572.11,
+   "SpotPriceEUR": 76.69
+  },
+  {
+   "HourUTC": "2026-03-29T02:00:00",
+   "HourDK": "2026-03-29T04:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 374.29,
+   "SpotPriceEUR": 50.17
+  },
+  {
+   "HourUTC": "2026-03-30T21:00:00",
+   "HourDK": "2026-03-30T23:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 439.13,
+   "SpotPriceEUR": 58.86
+  },
+  {
+   "HourUTC": "2026-03-28T11:00:00",
+   "HourDK": "2026-03-28T12:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 637.46,
+   "SpotPriceEUR": 85.45
+  },
+  {
+   "HourUTC": "2026-03-26T14:00:00",
+   "HourDK": "2026-03-26T15:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 318.54,
+   "SpotPriceEUR": 42.7
+  },
+  {
+   "HourUTC": "2026-03-27T09:00:00",
+   "HourDK": "2026-03-27T10:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 488.73,
+   "SpotPriceEUR": 65.51
+  },
+  {
+   "HourUTC": "2026-03-26T04:00:00",
+   "HourDK": "2026-03-26T05:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 575.45,
+   "SpotPriceEUR": 77.14
+  },
+  {
+   "HourUTC": "2026-03-26T21:00:00",
+   "HourDK": "2026-03-26T22:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 398.39,
+   "SpotPriceEUR": 53.4
+  },
+  {
+   "HourUTC": "2026-03-29T19:00:00",
+   "HourDK": "2026-03-29T21:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 98.48,
+   "SpotPriceEUR": 13.2
+  },
+  {
+   "HourUTC": "2026-03-30T03:00:00",
+   "HourDK": "2026-03-30T05:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": null,
+   "SpotPriceEUR": null
+  },
+  {
+   "HourUTC": "2026-03-31T19:00:00",
+   "HourDK": "2026-03-31T21:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 622.39,
+   "SpotPriceEUR": 83.43
+  },
+  {
+   "HourUTC": "2026-03-30T06:00:00",
+   "HourDK": "2026-03-30T08:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 575.13,
+   "SpotPriceEUR": 77.09
+  },
+  {
+   "HourUTC": "2026-03-28T08:00:00",
+   "HourDK": "2026-03-28T09:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 607.78,
+   "SpotPriceEUR": 81.47
+  },
+  {
+   "HourUTC": "2026-03-31T20:00:00",
+   "HourDK": "2026-03-31T22:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 495.88,
+   "SpotPriceEUR": 66.47
+  },
+  {
+   "HourUTC": "2026-04-01T17:00:00",
+   "HourDK": "2026-04-01T19:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 545.22,
+   "SpotPriceEUR": 73.09
+  },
+  {
+   "HourUTC": "2026-03-31T02:00:00",
+   "HourDK": "2026-03-31T04:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 553.77,
+   "SpotPriceEUR": 74.23
+  },
+  {
+   "HourUTC": "2026-03-28T10:00:00",
+   "HourDK": "2026-03-28T11:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 614.66,
+   "SpotPriceEUR": 82.39
+  },
+  {
+   "HourUTC": "2026-03-30T17:00:00",
+   "HourDK": "2026-03-30T19:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 447.12,
+   "SpotPriceEUR": 59.94
+  },
+  {
+   "HourUTC": "2026-03-29T09:00:00",
+   "HourDK": "2026-03-29T11:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 380.05,
+   "SpotPriceEUR": 50.95
+  },
+  {
+   "HourUTC": "2026-03-29T04:00:00",
+   "HourDK": "2026-03-29T06:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 315.41,
+   "SpotPriceEUR": 42.28
+  },
+  {
+   "HourUTC": "2026-03-30T04:00:00",
+   "HourDK": "2026-03-30T06:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 249.43,
+   "SpotPriceEUR": 33.44
+  },
+  {
+   "HourUTC": "2026-03-27T08:00:00",
+   "HourDK": "2026-03-27T09:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 309.48,
+   "SpotPriceEUR": 41.49
+  },
+  {
+   "HourUTC": "2026-04-01T13:00:00",
+   "HourDK": "2026-04-01T15:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 525.75,
+   "SpotPriceEUR": 70.48
+  },
+  {
+   "HourUTC": "2026-03-29T22:00:00",
+   "HourDK": "2026-03-30T00:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 298.55,
+   "SpotPriceEUR": 40.02
+  },
+  {
+   "HourUTC": "2026-03-29T16:00:00",
+   "HourDK": "2026-03-29T18:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 457.75,
+   "SpotPriceEUR": 61.36
+  },
+  {
+   "HourUTC": "2026-03-26T11:00:00",
+   "HourDK": "2026-03-26T12:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 294.32,
+   "SpotPriceEUR": 39.45
+  },
+  {
+   "HourUTC": "2026-03-26T01:00:00",
+   "HourDK": "2026-03-26T02:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 608.28,
+   "SpotPriceEUR": 81.54
+  },
+  {
+   "HourUTC": "2026-03-31T11:00:00",
+   "HourDK": "2026-03-31T13:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 263.75,
+   "SpotPriceEUR": 35.36
+  },
+  {
+   "HourUTC": "2026-03-28T22:00:00",
+   "HourDK": "2026-03-28T23:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 412.98,
+   "SpotPriceEUR": 55.36
+  },
+  {
+   "HourUTC": "2026-03-27T07:00:00",
+   "HourDK": "2026-03-27T08:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 298.02,
+   "SpotPriceEUR": 39.95
+  },
+  {
+   "HourUTC": "2026-03-27T14:00:00",
+   "HourDK": "2026-03-27T15:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 513.41,
+   "SpotPriceEUR": 68.82
+  },
+  {
+   "HourUTC": "2026-03-26T12:00:00",
+   "HourDK": "2026-03-26T13:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 428.36,
+   "SpotPriceEUR": 57.42
+  },
+  {
+   "HourUTC": "2026-03-26T20:00:00",
+   "HourDK": "2026-03-26T21:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 275.18,
+   "SpotPriceEUR": 36.89
+  },
+  {
+   "HourUTC": "2026-03-31T11:00:00",
+   "HourDK": "2026-03-31T13:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 471.0,
+   "SpotPriceEUR": 63.14
+  },
+  {
+   "HourUTC": "2026-03-29T06:00:00",
+   "HourDK": "2026-03-29T08:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 548.93,
+   "SpotPriceEUR": 73.58
+  },
+  {
+   "HourUTC": "2026-03-27T03:00:00",
+   "HourDK": "2026-03-27T04:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 522.74,
+   "SpotPriceEUR": 70.07
+  },
+  {
+   "HourUTC": "2026-03-26T10:00:00",
+   "HourDK": "2026-03-26T11:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 402.04,
+   "SpotPriceEUR": 53.89
+  },
+  {
+   "HourUTC": "2026-03-31T02:00:00",
+   "HourDK": "2026-03-31T04:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 358.44,
+   "SpotPriceEUR": 48.05
+  },
+  {
+   "HourUTC": "2026-03-31T16:00:00",
+   "HourDK": "2026-03-31T18:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 506.89,
+   "SpotPriceEUR": 67.95
+  },
+  {
+   "HourUTC": "2026-03-26T16:00:00",
+   "HourDK": "2026-03-26T17:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 456.37,
+   "SpotPriceEUR": 61.18
+  },
+  {
+   "HourUTC": "2026-03-28T20:00:00",
+   "HourDK": "2026-03-28T21:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 223.01,
+   "SpotPriceEUR": 29.89
+  },
+  {
+   "HourUTC": "2026-03-30T06:00:00",
+   "HourDK": "2026-03-30T08:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 337.01,
+   "SpotPriceEUR": 45.18
+  },
+  {
+   "HourUTC": "2026-03-28T19:00:00",
+   "HourDK": "2026-03-28T20:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 461.88,
+   "SpotPriceEUR": 61.91
+  },
+  {
+   "HourUTC": "2026-03-26T02:00:00",
+   "HourDK": "2026-03-26T03:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 596.21,
+   "SpotPriceEUR": 79.92
+  },
+  {
+   "HourUTC": "2026-04-01T20:00:00",
+   "HourDK": "2026-04-01T22:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 208.63,
+   "SpotPriceEUR": 27.97
+  },
+  {
+   "HourUTC": "2026-04-01T07:00:00",
+   "HourDK": "2026-04-01T09:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 499.53,
+   "SpotPriceEUR": 66.96
+  },
+  {
+   "HourUTC": "2026-03-28T14:00:00",
+   "HourDK": "2026-03-28T15:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 646.94,
+   "SpotPriceEUR": 86.72
+  },
+  {
+   "HourUTC": "2026-03-31T07:00:00",
+   "HourDK": "2026-03-31T09:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 479.36,
+   "SpotPriceEUR": 64.26
+  },
+  {
+   "HourUTC": "2026-03-26T12:00:00",
+   "HourDK": "2026-03-26T13:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 570.76,
+   "SpotPriceEUR": 76.51
+  },
+  {
+   "HourUTC": "2026-03-30T15:00:00",
+   "HourDK": "2026-03-30T17:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 306.91,
+   "SpotPriceEUR": 41.14
+  },
+  {
+   "HourUTC": "2026-03-27T12:00:00",
+   "HourDK": "2026-03-27T13:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 368.02,
+   "SpotPriceEUR": 49.33
+  },
+  {
+   "HourUTC": "2026-03-26T06:00:00",
+   "HourDK": "2026-03-26T07:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 616.65,
+   "SpotPriceEUR": 82.66
+  },
+  {
+   "HourUTC": "2026-03-29T23:00:00",
+   "HourDK": "2026-03-30T01:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 478.64,
+   "SpotPriceEUR": 64.16
+  },
+  {
+   "HourUTC": "2026-03-31T05:00:00",
+   "HourDK": "2026-03-31T07:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 537.16,
+   "SpotPriceEUR": 72.01
+  },
+  {
+   "HourUTC": "2026-03-27T23:00:00",
+   "HourDK": "2026-03-28T00:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 537.34,
+   "SpotPriceEUR": 72.03
+  },
+  {
+   "HourUTC": "2026-04-01T03:00:00",
+   "HourDK": "2026-04-01T05:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 566.3,
+   "SpotPriceEUR": 75.91
+  },
+  {
+   "HourUTC": "2026-03-30T23:00:00",
+   "HourDK": "2026-03-31T01:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 496.48,
+   "SpotPriceEUR": 66.55
+  },
+  {
+   "HourUTC": "2026-04-01T13:00:00",
+   "HourDK": "2026-04-01T15:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 250.46,
+   "SpotPriceEUR": 33.57
+  },
+  {
+   "HourUTC": "2026-03-27T16:00:00",
+   "HourDK": "2026-03-27T17:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 284.63,
+   "SpotPriceEUR": 38.15
+  },
+  {
+   "HourUTC": "2026-03-30T20:00:00",
+   "HourDK": "2026-03-30T22:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 420.97,
+   "SpotPriceEUR": 56.43
+  },
+  {
+   "HourUTC": "2026-04-01T15:00:00",
+   "HourDK": "2026-04-01T17:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 643.74,
+   "SpotPriceEUR": 86.29
+  },
+  {
+   "HourUTC": "2026-04-01T12:00:00",
+   "HourDK": "2026-04-01T14:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 315.1,
+   "SpotPriceEUR": 42.24
+  },
+  {
+   "HourUTC": "2026-04-01T21:00:00",
+   "HourDK": "2026-04-01T23:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 345.61,
+   "SpotPriceEUR": 46.33
+  },
+  {
+   "HourUTC": "2026-03-27T06:00:00",
+   "HourDK": "2026-03-27T07:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 374.88,
+   "SpotPriceEUR": 50.25
+  },
+  {
+   "HourUTC": "2026-03-29T18:00:00",
+   "HourDK": "2026-03-29T20:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 581.5,
+   "SpotPriceEUR": 77.95
+  },
+  {
+   "HourUTC": "2026-03-31T03:00:00",
+   "HourDK": "2026-03-31T05:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 520.49,
+   "SpotPriceEUR": 69.77
+  },
+  {
+   "HourUTC": "2026-03-26T14:00:00",
+   "HourDK": "2026-03-26T15:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 422.75,
+   "SpotPriceEUR": 56.67
+  },
+  {
+   "HourUTC": "2026-03-31T07:00:00",
+   "HourDK": "2026-03-31T09:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 371.46,
+   "SpotPriceEUR": 49.79
+  },
+  {
+   "HourUTC": "2026-03-28T17:00:00",
+   "HourDK": "2026-03-28T18:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 613.79,
+   "SpotPriceEUR": 82.28
+  },
+  {
+   "HourUTC": "2026-03-28T08:00:00",
+   "HourDK": "2026-03-28T09:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 644.34,
+   "SpotPriceEUR": 86.37
+  },
+  {
+   "HourUTC": "2026-03-30T22:00:00",
+   "HourDK": "2026-03-31T00:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 549.86,
+   "SpotPriceEUR": 73.71
+  },
+  {
+   "HourUTC": "2026-04-01T15:00:00",
+   "HourDK": "2026-04-01T17:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 290.25,
+   "SpotPriceEUR": 38.91
+  },
+  {
+   "HourUTC": "2026-03-27T20:00:00",
+   "HourDK": "2026-03-27T21:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 492.86,
+   "SpotPriceEUR": 66.07
+  },
+  {
+   "HourUTC": "2026-03-25T23:00:00",
+   "HourDK": "2026-03-26T00:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 645.17,
+   "SpotPriceEUR": 86.48
+  },
+  {
+   "HourUTC": "2026-03-30T13:00:00",
+   "HourDK": "2026-03-30T15:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 216.76,
+   "SpotPriceEUR": 29.06
+  },
+  {
+   "HourUTC": "2026-03-29T03:00:00",
+   "HourDK": "2026-03-29T05:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 485.46,
+   "SpotPriceEUR": 65.07
+  },
+  {
+   "HourUTC": "2026-03-29T01:00:00",
+   "HourDK": "2026-03-29T03:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 624.49,
+   "SpotPriceEUR": 83.71
+  },
+  {
+   "HourUTC": "2026-03-31T08:00:00",
+   "HourDK": "2026-03-31T10:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 331.14,
+   "SpotPriceEUR": 44.39
+  },
+  {
+   "HourUTC": "2026-03-29T17:00:00",
+   "HourDK": "2026-03-29T19:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 310.35,
+   "SpotPriceEUR": 41.6
+  },
+  {
+   "HourUTC": "2026-03-26T19:00:00",
+   "HourDK": "2026-03-26T20:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 329.31,
+   "SpotPriceEUR": 44.14
+  },
+  {
+   "HourUTC": "2026-03-26T08:00:00",
+   "HourDK": "2026-03-26T09:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 433.03,
+   "SpotPriceEUR": 58.05
+  },
+  {
+   "HourUTC": "2026-03-29T21:00:00",
+   "HourDK": "2026-03-29T23:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 280.66,
+   "SpotPriceEUR": 37.62
+  },
+  {
+   "HourUTC": "2026-04-01T04:00:00",
+   "HourDK": "2026-04-01T06:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 701.37,
+   "SpotPriceEUR": 94.02
+  },
+  {
+   "HourUTC": "2026-03-28T15:00:00",
+   "HourDK": "2026-03-28T16:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 542.57,
+   "SpotPriceEUR": 72.73
+  },
+  {
+   "HourUTC": "2026-03-28T19:00:00",
+   "HourDK": "2026-03-28T20:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 425.58,
+   "SpotPriceEUR": 57.05
+  },
+  {
+   "HourUTC": "2026-03-27T09:00:00",
+   "HourDK": "2026-03-27T10:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 210.93,
+   "SpotPriceEUR": 28.28
+  },
+  {
+   "HourUTC": "2026-04-01T18:00:00",
+   "HourDK": "2026-04-01T20:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 518.7,
+   "SpotPriceEUR": 69.53
+  },
+  {
+   "HourUTC": "2026-04-01T02:00:00",
+   "HourDK": "2026-04-01T04:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 665.16,
+   "SpotPriceEUR": 89.16
+  },
+  {
+   "HourUTC": "2026-03-26T02:00:00",
+   "HourDK": "2026-03-26T03:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 686.42,
+   "SpotPriceEUR": 92.01
+  },
+  {
+   "HourUTC": "2026-03-26T22:00:00",
+   "HourDK": "2026-03-26T23:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 353.38,
+   "SpotPriceEUR": 47.37
+  },
+  {
+   "HourUTC": "2026-03-31T05:00:00",
+   "HourDK": "2026-03-31T07:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 621.92,
+   "SpotPriceEUR": 83.37
+  },
+  {
+   "HourUTC": "2026-03-28T23:00:00",
+   "HourDK": "2026-03-29T00:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 439.86,
+   "SpotPriceEUR": 58.96
+  },
+  {
+   "HourUTC": "2026-03-29T13:00:00",
+   "HourDK": "2026-03-29T15:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 170.28,
+   "SpotPriceEUR": 22.83
+  },
+  {
+   "HourUTC": "2026-03-29T16:00:00",
+   "HourDK": "2026-03-29T18:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 260.69,
+   "SpotPriceEUR": 34.94
+  },
+  {
+   "HourUTC": "2026-03-31T12:00:00",
+   "HourDK": "2026-03-31T14:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 187.02,
+   "SpotPriceEUR": 25.07
+  },
+  {
+   "HourUTC": "2026-03-26T13:00:00",
+   "HourDK": "2026-03-26T14:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 345.53,
+   "SpotPriceEUR": 46.32
+  },
+  {
+   "HourUTC": "2026-03-30T07:00:00",
+   "HourDK": "2026-03-30T09:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 537.41,
+   "SpotPriceEUR": 72.04
+  },
+  {
+   "HourUTC": "2026-03-31T12:00:00",
+   "HourDK": "2026-03-31T14:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 381.79,
+   "SpotPriceEUR": 51.18
+  },
+  {
+   "HourUTC": "2026-03-26T15:00:00",
+   "HourDK": "2026-03-26T16:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 634.34,
+   "SpotPriceEUR": 85.03
+  },
+  {
+   "HourUTC": "2026-03-26T01:00:00",
+   "HourDK": "2026-03-26T02:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 583.01,
+   "SpotPriceEUR": 78.15
+  },
+  {
+   "HourUTC": "2026-04-01T16:00:00",
+   "HourDK": "2026-04-01T18:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 399.5,
+   "SpotPriceEUR": 53.55
+  },
+  {
+   "HourUTC": "2026-03-29T06:00:00",
+   "HourDK": "2026-03-29T08:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 460.76,
+   "SpotPriceEUR": 61.76
+  },
+  {
+   "HourUTC": "2026-03-28T00:00:00",
+   "HourDK": "2026-03-28T01:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 532.41,
+   "SpotPriceEUR": 71.37
+  },
+  {
+   "HourUTC": "2026-04-01T00:00:00",
+   "HourDK": "2026-04-01T02:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 639.15,
+   "SpotPriceEUR": 85.68
+  },
+  {
+   "HourUTC": "2026-03-28T04:00:00",
+   "HourDK": "2026-03-28T05:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 649.01,
+   "SpotPriceEUR": 87.0
+  },
+  {
+   "HourUTC": "2026-04-01T19:00:00",
+   "HourDK": "2026-04-01T21:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 178.68,
+   "SpotPriceEUR": 23.95
+  },
+  {
+   "HourUTC": "2026-03-28T21:00:00",
+   "HourDK": "2026-03-28T22:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 433.86,
+   "SpotPriceEUR": 58.16
+  },
+  {
+   "HourUTC": "2026-03-31T06:00:00",
+   "HourDK": "2026-03-31T08:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 443.17,
+   "SpotPriceEUR": 59.41
+  },
+  {
+   "HourUTC": "2026-03-26T21:00:00",
+   "HourDK": "2026-03-26T22:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 334.97,
+   "SpotPriceEUR": 44.9
+  },
+  {
+   "HourUTC": "2026-03-26T19:00:00",
+   "HourDK": "2026-03-26T20:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 438.39,
+   "SpotPriceEUR": 58.77
+  },
+  {
+   "HourUTC": "2026-03-28T01:00:00",
+   "HourDK": "2026-03-28T02:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 492.14,
+   "SpotPriceEUR": 65.97
+  },
+  {
+   "HourUTC": "2026-03-27T19:00:00",
+   "HourDK": "2026-03-27T20:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 522.18,
+   "SpotPriceEUR": 70.0
+  },
+  {
+   "HourUTC": "2026-03-28T10:00:00",
+   "HourDK": "2026-03-28T11:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 615.13,
+   "SpotPriceEUR": 82.46
+  },
+  {
+   "HourUTC": "2026-03-31T13:00:00",
+   "HourDK": "2026-03-31T15:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 296.14,
+   "SpotPriceEUR": 39.7
+  },
+  {
+   "HourUTC": "2026-04-01T01:00:00",
+   "HourDK": "2026-04-01T03:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 675.58,
+   "SpotPriceEUR": 90.56
+  },
+  {
+   "HourUTC": "2026-03-27T10:00:00",
+   "HourDK": "2026-03-27T11:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 179.64,
+   "SpotPriceEUR": 24.08
+  },
+  {
+   "HourUTC": "2026-03-27T21:00:00",
+   "HourDK": "2026-03-27T22:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 420.59,
+   "SpotPriceEUR": 56.38
+  },
+  {
+   "HourUTC": "2026-03-28T22:00:00",
+   "HourDK": "2026-03-28T23:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 227.01,
+   "SpotPriceEUR": 30.43
+  },
+  {
+   "HourUTC": "2026-03-28T07:00:00",
+   "HourDK": "2026-03-28T08:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 588.49,
+   "SpotPriceEUR": 78.89
+  },
+  {
+   "HourUTC": "2026-03-30T08:00:00",
+   "HourDK": "2026-03-30T10:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 302.26,
+   "SpotPriceEUR": 40.52
+  },
+  {
+   "HourUTC": "2026-03-26T09:00:00",
+   "HourDK": "2026-03-26T10:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 355.88,
+   "SpotPriceEUR": 47.7
+  },
+  {
+   "HourUTC": "2026-03-30T14:00:00",
+   "HourDK": "2026-03-30T16:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 353.2,
+   "SpotPriceEUR": 47.35
+  },
+  {
+   "HourUTC": "2026-03-29T19:00:00",
+   "HourDK": "2026-03-29T21:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 298.71,
+   "SpotPriceEUR": 40.04
+  },
+  {
+   "HourUTC": "2026-03-27T22:00:00",
+   "HourDK": "2026-03-27T23:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 540.47,
+   "SpotPriceEUR": 72.45
+  },
+  {
+   "HourUTC": "2026-04-01T18:00:00",
+   "HourDK": "2026-04-01T20:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 352.13,
+   "SpotPriceEUR": 47.2
+  },
+  {
+   "HourUTC": "2026-03-31T14:00:00",
+   "HourDK": "2026-03-31T16:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 153.68,
+   "SpotPriceEUR": 20.6
+  },
+  {
+   "HourUTC": "2026-03-25T23:00:00",
+   "HourDK": "2026-03-26T00:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 710.28,
+   "SpotPriceEUR": 95.21
+  },
+  {
+   "HourUTC": "2026-04-01T09:00:00",
+   "HourDK": "2026-04-01T11:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 453.22,
+   "SpotPriceEUR": 60.75
+  },
+  {
+   "HourUTC": "2026-03-27T10:00:00",
+   "HourDK": "2026-03-27T11:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 291.46,
+   "SpotPriceEUR": 39.07
+  },
+  {
+   "HourUTC": "2026-03-31T10:00:00",
+   "HourDK": "2026-03-31T12:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 328.75,
+   "SpotPriceEUR": 44.07
+  },
+  {
+   "HourUTC": "2026-03-29T14:00:00",
+   "HourDK": "2026-03-29T16:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 434.17,
+   "SpotPriceEUR": 58.2
+  },
+  {
+   "HourUTC": "2026-03-31T09:00:00",
+   "HourDK": "2026-03-31T11:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 415.27,
+   "SpotPriceEUR": 55.67
+  },
+  {
+   "HourUTC": "2026-03-30T16:00:00",
+   "HourDK": "2026-03-30T18:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 550.8,
+   "SpotPriceEUR": 73.83
+  },
+  {
+   "HourUTC": "2026-03-26T03:00:00",
+   "HourDK": "2026-03-26T04:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 700.68,
+   "SpotPriceEUR": 93.92
+  },
+  {
+   "HourUTC": "2026-03-27T11:00:00",
+   "HourDK": "2026-03-27T12:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 545.48,
+   "SpotPriceEUR": 73.12
+  },
+  {
+   "HourUTC": "2026-03-29T02:00:00",
+   "HourDK": "2026-03-29T04:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 489.74,
+   "SpotPriceEUR": 65.65
+  },
+  {
+   "HourUTC": "2026-04-01T20:00:00",
+   "HourDK": "2026-04-01T22:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 415.86,
+   "SpotPriceEUR": 55.75
+  },
+  {
+   "HourUTC": "2026-03-27T16:00:00",
+   "HourDK": "2026-03-27T17:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 485.13,
+   "SpotPriceEUR": 65.03
+  },
+  {
+   "HourUTC": "2026-03-30T09:00:00",
+   "HourDK": "2026-03-30T11:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 530.64,
+   "SpotPriceEUR": 71.13
+  },
+  {
+   "HourUTC": "2026-03-29T01:00:00",
+   "HourDK": "2026-03-29T03:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 521.28,
+   "SpotPriceEUR": 69.88
+  },
+  {
+   "HourUTC": "2026-03-30T03:00:00",
+   "HourDK": "2026-03-30T05:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 287.38,
+   "SpotPriceEUR": 38.52
+  },
+  {
+   "HourUTC": "2026-03-26T23:00:00",
+   "HourDK": "2026-03-27T00:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 569.58,
+   "SpotPriceEUR": 76.35
+  },
+  {
+   "HourUTC": "2026-03-28T12:00:00",
+   "HourDK": "2026-03-28T13:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 653.54,
+   "SpotPriceEUR": 87.61
+  },
+  {
+   "HourUTC": "2026-03-28T12:00:00",
+   "HourDK": "2026-03-28T13:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 691.76,
+   "SpotPriceEUR": 92.73
+  },
+  {
+   "HourUTC": "2026-03-28T18:00:00",
+   "HourDK": "2026-03-28T19:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 451.12,
+   "SpotPriceEUR": 60.47
+  },
+  {
+   "HourUTC": "2026-03-30T14:00:00",
+   "HourDK": "2026-03-30T16:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 179.84,
+   "SpotPriceEUR": 24.11
+  },
+  {
+   "HourUTC": "2026-03-29T20:00:00",
+   "HourDK": "2026-03-29T22:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 405.71,
+   "SpotPriceEUR": 54.38
+  },
+  {
+   "HourUTC": "2026-03-28T03:00:00",
+   "HourDK": "2026-03-28T04:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 636.07,
+   "SpotPriceEUR": 85.26
+  },
+  {
+   "HourUTC": "2026-03-28T17:00:00",
+   "HourDK": "2026-03-28T18:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 527.94,
+   "SpotPriceEUR": 70.77
+  },
+  {
+   "HourUTC": "2026-03-27T05:00:00",
+   "HourDK": "2026-03-27T06:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 595.91,
+   "SpotPriceEUR": 79.88
+  },
+  {
+   "HourUTC": "2026-03-29T00:00:00",
+   "HourDK": "2026-03-29T01:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 612.37,
+   "SpotPriceEUR": 82.09
+  },
+  {
+   "HourUTC": "2026-03-31T01:00:00",
+   "HourDK": "2026-03-31T03:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 591.46,
+   "SpotPriceEUR": 79.28
+  },
+  {
+   "HourUTC": "2026-03-31T22:00:00",
+   "HourDK": "2026-04-01T00:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 704.08,
+   "SpotPriceEUR": 94.38
+  },
+  {
+   "HourUTC": "2026-03-28T05:00:00",
+   "HourDK": "2026-03-28T06:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 555.96,
+   "SpotPriceEUR": 74.52
+  },
+  {
+   "HourUTC": "2026-04-01T17:00:00",
+   "HourDK": "2026-04-01T19:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 222.13,
+   "SpotPriceEUR": 29.78
+  },
+  {
+   "HourUTC": "2026-03-26T13:00:00",
+   "HourDK": "2026-03-26T14:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 594.27,
+   "SpotPriceEUR": 79.66
+  },
+  {
+   "HourUTC": "2026-03-31T10:00:00",
+   "HourDK": "2026-03-31T12:00:00",
+   "PriceArea": "DK2",
+   "SpotPriceDKK": 530.74,
+   "SpotPriceEUR": 71.15
+  },
+  {
+   "HourUTC": "2026-03-27T14:00:00",
+   "HourDK": "2026-03-27T15:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 364.29,
+   "SpotPriceEUR": 48.83
+  },
+  {
+   "HourUTC": "2026-03-27T04:00:00",
+   "HourDK": "2026-03-27T05:00:00",
+   "PriceArea": "DK1",
+   "SpotPriceDKK": 444.86,
+   "SpotPriceEUR": 59.63
+  }
+ ]
+}
