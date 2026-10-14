@@ -3,7 +3,7 @@ on:
   push:
   pull_request:
   schedule:
-    - cron: "0 6 * * 1"   # weekly, so a broken Python release shows up even without commits
+    - cron: "0 6 * * 1"   # weekly, so a broken Python or Dagster release shows up even without commits
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -15,7 +15,33 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: ${{ matrix.python }}
-      - name: Unit and integration tests
+      - name: Unit and integration tests (standard library only)
         run: python -m unittest discover -s tests -v
       - name: Full pipeline run on the sample data
         run: python -m gridpipe --db ci.db run
+
+  dagster:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install dagster
+      - name: Materialize every asset and run every check through Dagster
+        run: python -m unittest tests.test_dagster -v
+
+  docker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build image
+        run: docker build -t grid-data-pipeline .
+      - name: Run container and check the API and dashboard respond
+        run: |
+          docker run -d --name grid -p 8000:8000 grid-data-pipeline
+          for i in $(seq 1 20); do curl -fs http://127.0.0.1:8000/health && break; sleep 1; done
+          curl -fs http://127.0.0.1:8000/health
+          curl -fs http://127.0.0.1:8000/model | head -c 300
+          curl -fs http://127.0.0.1:8000/ | grep -q "Grid Data Dashboard"
+          docker rm -f grid

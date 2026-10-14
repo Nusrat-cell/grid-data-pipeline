@@ -18,6 +18,7 @@ def main(argv=None) -> int:
     sub.add_parser("run", help="materialize all assets and run the checks")
     serve_p = sub.add_parser("serve", help="serve the JSON API")
     serve_p.add_argument("--port", type=int, default=8000)
+    serve_p.add_argument("--host", default="127.0.0.1", help="use 0.0.0.0 inside a container")
     sub.add_parser("sample", help="regenerate the sample data")
     args = parser.parse_args(argv)
 
@@ -38,8 +39,8 @@ def main(argv=None) -> int:
 
     if args.command == "serve":
         from .api import serve
-        server = serve(args.db, args.port)
-        print(f"API on http://127.0.0.1:{args.port}  (/health /hourly /daily /quality /runs)")
+        server = serve(args.db, args.port, args.host)
+        print(f"Dashboard and API on http://{args.host}:{args.port}  (/health /hourly /daily /quality /model /runs)")
         try:
             server.serve_forever()
         except KeyboardInterrupt:

@@ -155,6 +155,15 @@ class FullPipelineTest(unittest.TestCase):
         ).fetchone()[0]
         self.assertEqual(bad, 0)
 
+    def test_model_is_tested_on_later_days_only(self):
+        last_train = self.conn.execute("SELECT MAX(hour_utc) FROM model_predictions WHERE split = 'train'").fetchone()[0]
+        first_test = self.conn.execute("SELECT MIN(hour_utc) FROM model_predictions WHERE split = 'test'").fetchone()[0]
+        self.assertLess(last_train, first_test)
+
+    def test_model_beats_naive_baseline(self):
+        for area, mae_model, mae_naive in self.conn.execute("SELECT price_area, mae_model, mae_naive FROM model_metrics"):
+            self.assertLess(mae_model, mae_naive, area)
+
     def test_run_is_logged(self):
         rows = self.conn.execute("SELECT COUNT(*) FROM asset_materializations WHERE run_id = ?", (self.result.run_id,))
         self.assertEqual(rows.fetchone()[0], len(pl.pipeline.assets))
@@ -168,6 +177,8 @@ class FullPipelineTest(unittest.TestCase):
             self.assertTrue(health["ok"])
             hourly = json.load(urllib.request.urlopen(base + "/hourly?area=DK2&date=2026-03-29"))
             self.assertEqual(len(hourly), 23)
+            model = json.load(urllib.request.urlopen(base + "/model"))
+            self.assertEqual(len(model["metrics"]), 2)
             quality = json.load(urllib.request.urlopen(base + "/quality"))
             self.assertEqual(len(quality["rejected_rows"]), 3)
             page = urllib.request.urlopen(base + "/").read().decode()

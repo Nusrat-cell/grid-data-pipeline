@@ -1,8 +1,8 @@
 """The pipeline itself: raw -> staging -> marts, with data quality checks.
 
-    raw_prices ------> stg_prices ------\
-                                         >--> mart_hourly --> mart_daily
-    raw_production --> stg_production --/
+    raw_prices ------> stg_prices ------\                 /--> mart_daily
+                                         >--> mart_hourly
+    raw_production --> stg_production --/                 \--> price_model
 
 Raw tables keep the data exactly as delivered. Staging is where it gets
 cleaned: duplicates removed, bad rows moved to a `rejected_rows` table with a
@@ -255,3 +255,89 @@ def renewable_share_is_plausible(conn) -> tuple[bool, str]:
     # Denmark can produce more wind than it uses (share > 1) but not 5x more.
     bad = conn.execute("SELECT COUNT(*) FROM mart_hourly WHERE renewable_share < 0 OR renewable_share > 5").fetchone()[0]
     return bad == 0, f"{bad} hours with an impossible renewable share"
+
+
+# ------------------------------------------------------------ model layer
+#
+# A small price model, as an example of moving a data science prototype into
+# the pipeline: it is rebuilt on every run, evaluated the same way every time,
+# and checked against a naive baseline before anyone relies on it.
+
+TEST_DAYS = 2  # the last two local days are held out for testing
+
+
+def _fit_line(xs: list[float], ys: list[float]) -> tuple[float, float]:
+    """Ordinary least squares for y = a + b * x."""
+    n = len(xs)
+    mx, my = sum(xs) / n, sum(ys) / n
+    sxx = sum((x - mx) ** 2 for x in xs)
+    sxy = sum((x - mx) * (y - my) for x, y in zip(xs, ys))
+    b = sxy / sxx
+    return my - b * mx, b
+
+
+@pipeline.asset(deps=("mart_hourly",), description="Price model: spot price from residual load, chronological test split")
+def price_model(conn: sqlite3.Connection) -> int:
+    conn.execute("DROP TABLE IF EXISTS model_predictions")
+    conn.execute(
+        "CREATE TABLE model_predictions (hour_utc TEXT, price_area TEXT, split TEXT, actual_eur REAL, "
+        "predicted_eur REAL, naive_eur REAL)"
+    )
+    conn.execute("DROP TABLE IF EXISTS model_metrics")
+    conn.execute(
+        "CREATE TABLE model_metrics (price_area TEXT PRIMARY KEY, train_hours INTEGER, test_hours INTEGER, "
+        "intercept REAL, slope_eur_per_mwh REAL, mae_model REAL, mae_naive REAL, r2_test REAL)"
+    )
+    written = 0
+    for (area,) in conn.execute("SELECT DISTINCT price_area FROM mart_hourly ORDER BY 1").fetchall():
+        rows = conn.execute(
+            "SELECT hour_utc, local_date, residual_load_mwh, price_eur FROM mart_hourly "
+            "WHERE price_area = ? ORDER BY hour_utc", (area,)
+        ).fetchall()
+        days = sorted({r[1] for r in rows})
+        test_days = set(days[-TEST_DAYS:])
+        # Split by time, never at random: a random split lets the model learn
+        # from hours that come after the ones it is tested on.
+        train = [r for r in rows if r[1] not in test_days]
+        test = [r for r in rows if r[1] in test_days]
+        a, b = _fit_line([r[2] for r in train], [r[3] for r in train])
+
+        # Naive baseline: the price at the same hour one day earlier.
+        price_at = {r[0]: r[3] for r in rows}
+
+        def naive(hour_utc: str):
+            prev = (datetime.fromisoformat(hour_utc) - timedelta(days=1)).isoformat(timespec="seconds")
+            return price_at.get(prev)
+
+        errors_model, errors_naive, actuals = [], [], []
+        for split, part in (("train", train), ("test", test)):
+            for hour_utc, _, residual, actual in part:
+                predicted = a + b * residual
+                base = naive(hour_utc)
+                conn.execute(
+                    "INSERT INTO model_predictions VALUES (?, ?, ?, ?, ?, ?)",
+                    (hour_utc, area, split, actual, round(predicted, 2), base),
+                )
+                written += 1
+                if split == "test" and base is not None:
+                    errors_model.append(abs(actual - predicted))
+                    errors_naive.append(abs(actual - base))
+                    actuals.append((actual, predicted))
+        mean_actual = sum(x for x, _ in actuals) / len(actuals)
+        ss_res = sum((x - p) ** 2 for x, p in actuals)
+        ss_tot = sum((x - mean_actual) ** 2 for x, _ in actuals)
+        conn.execute(
+            "INSERT INTO model_metrics VALUES (?, ?, ?, ?, ?, ?, ?, ?)",
+            (area, len(train), len(test), round(a, 3), round(b, 5),
+             round(sum(errors_model) / len(errors_model), 2), round(sum(errors_naive) / len(errors_naive), 2),
+             round(1 - ss_res / ss_tot, 3)),
+        )
+    return written
+
+
+@pipeline.check(asset="price_model", blocking=False)
+def model_beats_naive_baseline(conn) -> tuple[bool, str]:
+    rows = conn.execute("SELECT price_area, mae_model, mae_naive, r2_test FROM model_metrics ORDER BY 1").fetchall()
+    worse = [r[0] for r in rows if r[1] >= r[2]]
+    detail = "; ".join(f"{a}: MAE {m} vs naive {n} EUR/MWh, test R2 {r2}" for a, m, n, r2 in rows)
+    return not worse, detail

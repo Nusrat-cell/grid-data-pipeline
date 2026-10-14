@@ -75,6 +75,16 @@ def route(conn: sqlite3.Connection, path: str, query: str):
             ),
         }
 
+    if path == "/model":
+        return {
+            "metrics": _rows(conn, "SELECT * FROM model_metrics ORDER BY price_area"),
+            "test_predictions": _rows(
+                conn,
+                "SELECT hour_utc, price_area, actual_eur, predicted_eur, naive_eur FROM model_predictions "
+                "WHERE split = 'test' ORDER BY hour_utc, price_area",
+            ),
+        }
+
     if path == "/runs":
         runs = _rows(conn, "SELECT * FROM pipeline_runs ORDER BY run_id DESC LIMIT 20")
         for r in runs:
@@ -83,7 +93,7 @@ def route(conn: sqlite3.Connection, path: str, query: str):
             )
         return runs
 
-    raise ApiError(404, "not found; try /, /health, /hourly, /daily, /quality or /runs")
+    raise ApiError(404, "not found; try /, /health, /hourly, /daily, /quality, /model or /runs")
 
 
 def make_handler(db_path: str):
@@ -120,5 +130,5 @@ def make_handler(db_path: str):
     return Handler
 
 
-def serve(db_path: str, port: int = 8000) -> ThreadingHTTPServer:
-    return ThreadingHTTPServer(("127.0.0.1", port), make_handler(db_path))
+def serve(db_path: str, port: int = 8000, host: str = "127.0.0.1") -> ThreadingHTTPServer:
+    return ThreadingHTTPServer((host, port), make_handler(db_path))

@@ -64,6 +64,15 @@
     <svg id="chart" viewBox="0 0 900 260" role="img" aria-label="Hourly price and renewable share"></svg>
   </section>
 
+  <section>
+    <h2>Price model, held-out test days</h2>
+    <p class="detail" style="margin:0 0 8px;font-size:13px">Spot price predicted from residual load (consumption minus wind and solar), trained on earlier days and tested on the last two. Compared with a naive forecast: the same hour yesterday.</p>
+    <table>
+      <thead><tr><th>Area</th><th class="num">Train / test hours</th><th class="num">EUR per MWh of residual load</th><th class="num">Model error (MAE)</th><th class="num">Naive error (MAE)</th><th class="num">Test R&sup2;</th></tr></thead>
+      <tbody id="model"></tbody>
+    </table>
+  </section>
+
   <div class="grid2">
     <section>
       <h2>Daily summary</h2>
@@ -174,6 +183,18 @@
     $('rejected').replaceChildren(...q.rejected_rows.map((r) => el('li', { textContent: `${r.source}, ${r.record_key}: ${r.reason}` })));
   }
 
+  async function renderModel() {
+    const m = await get('/model');
+    $('model').replaceChildren(...m.metrics.map((r) => el('tr', {}, [
+      el('td', { textContent: r.price_area }),
+      el('td', { className: 'num', textContent: `${r.train_hours} / ${r.test_hours}` }),
+      el('td', { className: 'num', textContent: r.slope_eur_per_mwh.toFixed(4) }),
+      el('td', { className: 'num', textContent: r.mae_model.toFixed(1) }),
+      el('td', { className: 'num', textContent: r.mae_naive.toFixed(1) }),
+      el('td', { className: 'num', textContent: r.r2_test.toFixed(2) }),
+    ])));
+  }
+
   async function refresh() {
     const area = $('area').value, day = $('day').value;
     const today = daily.find((d) => d.price_area === area && d.local_date === day);
@@ -193,7 +214,7 @@
       $('day').value = days.includes('2026-03-29') ? '2026-03-29' : days[0];
       $('area').addEventListener('change', refresh);
       $('day').addEventListener('change', refresh);
-      await Promise.all([refresh(), renderQuality()]);
+      await Promise.all([refresh(), renderQuality(), renderModel()]);
     } catch (err) {
       $('status').textContent = `Could not load data: ${err.message}. Run "python -m gridpipe run" first.`;
     }

@@ -7,9 +7,9 @@ serves them through a small JSON API. Every run is logged, so you can see what
 ran, how many rows it wrote and which checks failed.
 
 ```
-raw_prices ------> stg_prices ------\
-                                     >--> mart_hourly --> mart_daily --> JSON API
-raw_production --> stg_production --/
+raw_prices ------> stg_prices ------\                 /--> mart_daily --\
+                                     >--> mart_hourly                   >--> JSON API + dashboard
+raw_production --> stg_production --/                 \--> price_model -/
                         |
                   rejected_rows (with a reason for every row)
 ```
@@ -64,12 +64,24 @@ The sample deliberately contains four faults that real feeds have:
 
 ## Design decisions
 
+**Runs in Dagster too.** `gridpipe/dagster_defs.py` turns every asset and
+check into a real Dagster asset and asset check with the same names and
+dependencies, without changing the pipeline code:
+
+```bash
+pip install dagster dagster-webserver
+dagster dev -m gridpipe.dagster_defs
+```
+
+CI installs Dagster and materializes the whole graph through it on every
+push (`tests/test_dagster.py`).
+
 **Assets with declared dependencies.** Each table is produced by one
 function that declares what it reads (`gridpipe/assets.py`). The runner sorts
 them, runs each once, and if one fails it skips everything downstream but
 still runs unrelated assets. This is the model Dagster uses (software-defined
 assets and asset checks); I wrote a small version to understand it from the
-inside, and the pipeline would port to Dagster almost one to one.
+inside, and `dagster_defs.py` runs the same assets in Dagster itself.
 
 **Blocking and non-blocking checks.** A price outside the market's own
 limits blocks downstream tables, because publishing it would be wrong. A
@@ -94,6 +106,27 @@ before subtracting fixed it (`expected_hours` in `pipeline.py`), and the
 test `test_normal_and_dst_days` pins 23, 24 and 25 hour days so it cannot
 come back.
 
+## Price model
+
+`price_model` predicts the spot price from residual load (consumption minus
+wind and solar), as an example of moving a data science prototype into the
+pipeline instead of leaving it in a notebook. It is rebuilt on every run,
+always tested the same way, and checked against a baseline:
+
+- **Split by time.** The last two days are held out for testing and the model
+  only learns from the days before them. A random split lets a model learn
+  from the future, which is exactly the leakage bug I found in an earlier
+  project, where it inflated R&sup2; from 0.475 to 0.996.
+- **Baseline.** A model is only useful if it beats something simple, so it is
+  compared with "the same hour yesterday". The check `model_beats_naive_baseline`
+  warns if it ever stops doing so.
+
+On the sample data: DK1 MAE 7.6 EUR/MWh (naive 17.9), test R&sup2; 0.80;
+DK2 MAE 6.7 (naive 12.0), test R&sup2; 0.58. These numbers are flattering
+because the sample prices are generated from residual load; on real market
+data a one-variable model will do worse, and the point here is the
+evaluation setup, not the score. Results are at `/model` and on the dashboard.
+
 ## Dashboard
 
 `http://127.0.0.1:8000/` is a small dashboard for people who use the data,
@@ -111,22 +144,36 @@ needs no build step.
 | `GET /hourly?area=DK1&date=2026-03-29` | Hourly price, consumption, wind, solar, renewable share, residual load |
 | `GET /daily?area=DK2` | Daily average/min/max price, negative-price hours, renewable share, hours covered vs expected |
 | `GET /quality` | Rejected rows and the latest check results |
+| `GET /model` | Price model metrics per area and its predictions on the test days |
 | `GET /runs` | Last 20 runs with per-asset rows, duration and errors |
 
 The API opens the database read-only and validates its inputs (`area=SE3`
 returns 400 with a clear message).
 
+## Docker
+
+```bash
+docker build -t grid-data-pipeline .
+docker run -p 8000:8000 grid-data-pipeline   # dashboard on http://localhost:8000
+```
+
+The image runs the pipeline on the sample data at build time, runs as a
+non-root user, and has a health check on `/health`. CI builds it and checks
+that the API and dashboard respond.
+
 ## Tests and CI
 
-13 tests (including the dashboard being served): DST hour counts, dependency ordering, cycle detection, failure
+16 tests: DST hour counts, dependency ordering, cycle detection, failure
 isolation, blocking checks, every planted fault caught with the right reason,
-mart consistency, run logging, and HTTP tests against a live server. GitHub
-Actions runs them on Python 3.11 to 3.13 on every push and weekly, then
-runs the full pipeline on the sample data.
+mart consistency, a model that is only tested on later days and beats the
+baseline, run logging, and HTTP tests against a live server (API, model
+endpoint and dashboard). GitHub Actions runs three jobs on every push and
+weekly: the tests plus a full pipeline run on Python 3.11 to 3.13, the whole
+graph materialized through Dagster, and a Docker build with a smoke test.
 
 ## Next steps
 
 - Fetch directly from the Energi Data Service API on a schedule
-- Move to Dagster for scheduling, retries and the asset UI
+- Dagster schedules and sensors for hourly runs
 - Incremental loads (only new hours) instead of full rebuilds
 - Power BI or Grafana on top of `mart_daily`
